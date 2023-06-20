@@ -1,632 +1,1113 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul - Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Rio Sul - Globo
-http://boxtv.uniredes.com.br:80/16031974/16031974/3
-#EXTINF:-1 tvg-id="" tvg-name="My Little Pony em Português Brasil" tvg-logo="https://yt3.ggpht.com/KKPJKGQ8o_m6Hh8gJxEN0NP-Ap4lwCK1ZucU598hRKpeA7_l23Tz7ByyvJzjsAQWkD4sTfILj6w=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",My Little Pony em Português Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/4
-#EXTINF:-1 tvg-id="" tvg-name="POCOYO em PORTUGUÊS BRASIL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQCVxypZ25q1BRyS24WDZS6YiBNiqiyRgUVcQKT7g=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",POCOYO em PORTUGUÊS BRASIL
-http://boxtv.uniredes.com.br:80/16031974/16031974/5
-#EXTINF:-1 tvg-id="" tvg-name="As Histórias do Om Nom" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJfBNDToOiPGfypi3vxTJnhrAtVLjOpoY3MdHn-w=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",As Histórias do Om Nom
-http://boxtv.uniredes.com.br:80/16031974/16031974/6
-#EXTINF:-1 tvg-id="" tvg-name="Barbie LIVE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWyAjqaSWYh8vEO5oxRpOk8TmTAfT9DxRfoW_nyg=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Barbie LIVE
-http://boxtv.uniredes.com.br:80/16031974/16031974/7
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig em Português Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRegJUquXVbesrPgi-u_D3ulgycIHG8RluCOTJkvw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",Peppa Pig em Português Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/8
-#EXTINF:-1 tvg-id="" tvg-name="Ben e Holly em Português Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSJycBpnlc7rzX9K3KLs9aVS3A92upxIRlchHVO=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Ben e Holly em Português Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/9
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo RJ" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo RJ
-http://boxtv.uniredes.com.br:80/16031974/16031974/10
-#EXTINF:-1 tvg-id="" tvg-name="O Reino Infantil" tvg-logo="https://yt3.ggpht.com/_f386CBIwaTgDA2SqH5j367J6gjLImR8h7MbAO77z96iRrrzLurLmiZAMt9r9FNIdVYF1NTdkA=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",O Reino Infantil
-http://boxtv.uniredes.com.br:80/16031974/16031974/11
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo SP" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo SP
-http://boxtv.uniredes.com.br:80/16031974/16031974/12
-#EXTINF:-1 tvg-id="" tvg-name="Super Toons TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFYUSaum_Nbzlo27nWkFo3eyeM-f9sWJOfwwv7=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Super Toons TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/13
-#EXTINF:-1 tvg-id="" tvg-name="BabyFirst Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ66EEUk6WcQLH0UV5yVgq4qc6p1_kKxs8JydrpdA=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",BabyFirst Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/14
-#EXTINF:-1 tvg-id="" tvg-name="Cats Family" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTlupQxOTLo1YhTEc72mYP0ta8GYMPRqTMFirMU=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",Cats Family
-http://boxtv.uniredes.com.br:80/16031974/16031974/15
-#EXTINF:-1 tvg-id="" tvg-name="Super JoJo Português" tvg-logo="https://yt3.ggpht.com/NohpsHhbRMc2VM7ZUeM6iY_smPX5z4T_YNw7VA8v0nfuNClJpGK9_w0ayFEWmg21AlANQMB2uQ=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Super JoJo Português
-http://boxtv.uniredes.com.br:80/16031974/16031974/16
-#EXTINF:-1 tvg-id="" tvg-name="PJ Masks Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTAnDNb8x-6h0YqJxChw5gFUFJlScRIugRK_FpOBA=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",PJ Masks Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/18
-#EXTINF:-1 tvg-id="" tvg-name="Baby Alive em Português Brasil" tvg-logo="https://yt3.ggpht.com/beNIt7q0dWPPGEd5ibbsX_4-HG4DZIfgCpJ_C_ILCR5v4fPA7866n2AZIBVrutdDIIm0m4Ev5Q=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",Baby Alive em Português Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/19
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorksTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSaqvapxD64zDppGPWdXBr5VNzBdg6fSTZ2rTdE_g=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",DreamWorksTV
-http://boxtv.uniredes.com.br:80/16031974/16031974/20
-#EXTINF:-1 tvg-id="" tvg-name="SBT Interior RJ" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Interior RJ
-http://boxtv.uniredes.com.br:80/16031974/16031974/22
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT SP
-http://boxtv.uniredes.com.br:80/16031974/16031974/23
-#EXTINF:-1 tvg-id="" tvg-name="Record Interior RJ" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS47tZg32PXVCIcRv5jINgUGP2a9XV-ia693p3r=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Record Interior RJ
-http://boxtv.uniredes.com.br:80/16031974/16031974/24
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sertanejo - Música Sertaneja" tvg-logo="https://yt3.ggpht.com/0Xg6Tn4zG2uDWXU44Osl7gNwrCRwO2FY1GLDnf97RWLKiMfcDISU2AFV17Cvjo3G8IHNP2POxnQ=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Canal Sertanejo - Música Sertaneja
-http://boxtv.uniredes.com.br:80/16031974/16031974/25
-#EXTINF:-1 tvg-id="" tvg-name="Music Collection - Música Internacional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_XNWhpL8aXPC5xfQiz7o_kdhNJ2OK1QzXR-nM=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Music Collection - Música Internacional
-http://boxtv.uniredes.com.br:80/16031974/16031974/26
-#EXTINF:-1 tvg-id="" tvg-name="Legend Music - Música Electrónica" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSxtmkzBGv_N63xivlShEZxwpbtA_gPYrFEuvxM=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Legend Music - Música Electrónica
-http://boxtv.uniredes.com.br:80/16031974/16031974/27
-#EXTINF:-1 tvg-id="" tvg-name="Sua Música - Forró e Piseiro" tvg-logo="https://yt3.ggpht.com/jWc_QeFBZpXzJHA0lkUtviTsR6Y1_O4lVPhK2jlVLuiKMwo_KVdZT4lGFMgmOtrleHLpsO-HJQ=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Sua Música - Forró e Piseiro
-http://boxtv.uniredes.com.br:80/16031974/16031974/28
-#EXTINF:-1 tvg-id="" tvg-name="Music Life - Reggae Internacional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT15fw2BEHFnJsJ57Vq_zRvu2SUohI6BQnst7qV=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Music Life - Reggae Internacional
-http://boxtv.uniredes.com.br:80/16031974/16031974/30
-#EXTINF:-1 tvg-id="" tvg-name="Acústico Imaginar - Forró das Antigas" tvg-logo="https://yt3.ggpht.com/fNEPEfZX2cOkzkn7U0a70vAZIVDz0KWfStTsffbdPHlmT0himfYGS7_Z-d6nZnprnEfw-KjH5g=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Acústico Imaginar - Forró das Antigas
-http://boxtv.uniredes.com.br:80/16031974/16031974/31
-#EXTINF:-1 tvg-id="" tvg-name="Top Harpa Cristã - Harpa Cristã Antiga" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTX304InXxMdE988ZxqPiyJyQC_DYgrGWJoaQ5s=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",Top Harpa Cristã - Harpa Cristã Antiga
-http://boxtv.uniredes.com.br:80/16031974/16031974/32
-#EXTINF:-1 tvg-id="" tvg-name="Music Brokers - Bossa Nova" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrZiXZ-1fsayt4M4Heh5qdv0I47ZTQddsoTpmMnQ=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Music Brokers - Bossa Nova
-http://boxtv.uniredes.com.br:80/16031974/16031974/34
-#EXTINF:-1 tvg-id="" tvg-name="Disco Music - Música Disco" tvg-logo="https://yt3.ggpht.com/5nqhAdf26KoSKbfUB8kvhJo6rpMQw3XS345h8ZNmeXScqlB1KjJAM0T371r3QcS1mA1LZg9B1Po=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Disco Music - Música Disco
-http://boxtv.uniredes.com.br:80/16031974/16031974/35
-#EXTINF:-1 tvg-id="" tvg-name="I Love You Venice - Música Clásssica" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSNKfCEMh-yoeJvJrKXDu-t1lbv9HjAGF3yHqtV=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",I Love You Venice - Música Clásssica
-http://boxtv.uniredes.com.br:80/16031974/16031974/36
-#EXTINF:-1 tvg-id="" tvg-name="Hip Hop Collection - Hip Hop" tvg-logo="https://yt3.ggpht.com/nS43R9wbGt-VOLCrJqnmow-ahNbgxNDzDgWgk-iM8NpLBm7nE7e6BvhBEjahPIrt5B-WrvX4-A=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Hip Hop Collection - Hip Hop
-http://boxtv.uniredes.com.br:80/16031974/16031974/38
-#EXTINF:-1 tvg-id="" tvg-name="Hits Music - J-POP Music" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQj0yO8s4AoImnOc5UFUAnpWsHTLVM6jPO5u4q0=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Hits Music - J-POP Music
-http://boxtv.uniredes.com.br:80/16031974/16031974/39
-#EXTINF:-1 tvg-id="" tvg-name="The K-POP - K Pop Music" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmCIJ02KEPIjawFuNmDD5lJqx_8mgHti4De3fQtA=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",The K-POP - K Pop Music
-http://boxtv.uniredes.com.br:80/16031974/16031974/40
-#EXTINF:-1 tvg-id="" tvg-name="Pop Internacionais - Pop Music" tvg-logo="https://yt3.ggpht.com/ipwuju0y7t8vzr1FY99Q1XSeuf1fcf9fvP2GcAGFvj9VtIlbLY9FcuFglxADwsxzUi-rhxIVR1Y=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Pop Internacionais - Pop Music
-http://boxtv.uniredes.com.br:80/16031974/16031974/42
-#EXTINF:-1 tvg-id="" tvg-name="Helios Deep - Summer Mix" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6jIlHYmaA0tKD3XUECRq434TThSVSrgpqHCJS=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Helios Deep - Summer Mix
-http://boxtv.uniredes.com.br:80/16031974/16031974/43
-#EXTINF:-1 tvg-id="" tvg-name="Top Músicas Evangélicas - Louvor de Adoração" tvg-logo="https://yt3.ggpht.com/NsXYddCIC5bM6dLa27z3BiJxrxog2gikZFaNQeqN88sD0aZzMOYUEt4KCYlzTIIuO5tmaa8L=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",Top Músicas Evangélicas - Louvor de Adoração
-http://boxtv.uniredes.com.br:80/16031974/16031974/44
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgXwqHfXaMKq30loyBjY-Cny6Ymu-YCqhn5tLbOQ=s512-c-k-c0x00ffffff-no-rj" group-title="Noticias",CNN Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/45
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU" group-title="Filmes",Cine Pipoca 01
-http://boxtv.uniredes.com.br:80/16031974/16031974/47
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU" group-title="Filmes",Cine Pipoca 02
-http://boxtv.uniredes.com.br:80/16031974/16031974/48
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBOpoJ_2NEGAojAWhwHY0YMne2E8lioC8Kw&usqp=CAU" group-title="Filmes",Cine Pipoca 03
-http://boxtv.uniredes.com.br:80/16031974/16031974/49
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png" group-title="Noticias",Jovem Pan News
-http://boxtv.uniredes.com.br:80/16031974/16031974/52
-#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://play-lh.googleusercontent.com/VE4H6vRI5B1Oie62s3rA2H39Xdkmmsr6JLhYJYk6XfyDpQukyHuvWmA2zslpPm0WpoQ" group-title="Noticias",Band News
-http://boxtv.uniredes.com.br:80/16031974/16031974/53
-#EXTINF:-1 tvg-id="" tvg-name="Euro News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Noticias",Euro News
-http://boxtv.uniredes.com.br:80/16031974/16031974/54
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s512-c-k-c0x00ffffff-no-rj" group-title="Noticias",Record News
-http://boxtv.uniredes.com.br:80/16031974/16031974/55
-#EXTINF:-1 tvg-id="" tvg-name="Record RJ" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT4XWcjoYaYZronAVUGjn8ON40Bw7U9PIXu8fM=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Record RJ
-http://boxtv.uniredes.com.br:80/16031974/16031974/56
-#EXTINF:-1 tvg-id="" tvg-name="Record SP" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1_IFYDncBwSyCR4gMgMoozNq8rT-TSWcTWaQKhQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Record SP
-http://boxtv.uniredes.com.br:80/16031974/16031974/57
-#EXTINF:-1 tvg-id="" tvg-name="Just For Laughs - Pegadinhas" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQI3zaXy8mQd1OSSFOgu-dZNzQ5UMF427w4xK9FBA=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Just For Laughs - Pegadinhas
-http://boxtv.uniredes.com.br:80/16031974/16031974/58
-#EXTINF:-1 tvg-id="" tvg-name="My Time Movie" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/televisions-home-theater/MyTimeMovieNetwork.jpg" group-title="Filmes",My Time Movie
-http://boxtv.uniredes.com.br:80/16031974/16031974/62
-#EXTINF:-1 tvg-id="" tvg-name="Cine Soul Club" tvg-logo="https://play-lh.googleusercontent.com/KeonbdHV1Er-9JYRwtEKCaZXNagr0WOvaazMsQLIgzLn9aUhHnRoEYMhBfdsmaY_yzMq" group-title="Filmes",Cine Soul Club
-http://boxtv.uniredes.com.br:80/16031974/16031974/63
-#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo" tvg-logo="https://yt3.ggpht.com/u3IZ2FVzJ1PWJDgL1w5wDhUxuMDcEuL7ZfwMxkB7aVc5SHmBN2PlTO4cCiqnKjJbFRtdipPZ8w=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",TV Novo Tempo
-http://boxtv.uniredes.com.br:80/16031974/16031974/64
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Gospel" tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="Religiosos",Cartoon Gospel
-http://boxtv.uniredes.com.br:80/16031974/16031974/65
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title="Filmes",Gospel Movies
-http://boxtv.uniredes.com.br:80/16031974/16031974/66
-#EXTINF:-1 tvg-id="" tvg-name="Bridie Squirrel em Português Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3SnJEI_TtwHuDOAdBJfiItoEA36CV9RPdggGISQ=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Bridie Squirrel em Português Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/67
-#EXTINF:-1 tvg-id="" tvg-name="Band RJ" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Band RJ
-http://boxtv.uniredes.com.br:80/16031974/16031974/68
-#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLuqpasr1J21C0TcTdi-uBMRNQAig96myDG5ar=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",RIT
-http://boxtv.uniredes.com.br:80/16031974/16031974/70
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTY-d0jeEZ4XNa6xwubEaFoWyNlRzbbI-PH5exrZ54=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",TV Cultura
-http://boxtv.uniredes.com.br:80/16031974/16031974/79
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://yt3.ggpht.com/K75kU9G4UMn7oHYImkYigN3RJen-tmVhcNyTb-b0kiEvMUlaPpwkvMpKyr5KQiL3RQz6kR2LKA=s900-c-k-c0x00ffffff-no-rj" group-title="Religiosos",TV Evangelizar
-http://boxtv.uniredes.com.br:80/16031974/16031974/83
-#EXTINF:-1 tvg-id="" tvg-name="Rede Minas" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTcrZNv0DGhh-2AFNTdE8sr0lHQPFKIAbWiqjQ8Pg=s512-c-k-c0x00ffffff-no-rj" group-title="Noticias",Rede Minas
-http://boxtv.uniredes.com.br:80/16031974/16031974/87
-#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSL0QnwaUN4CMFJ5bNZiE3NshlWw-_0f6qXInnEbw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Band SP
-http://boxtv.uniredes.com.br:80/16031974/16031974/88
-#EXTINF:-1 tvg-id="" tvg-name="Band Tabora" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSL0QnwaUN4CMFJ5bNZiE3NshlWw-_0f6qXInnEbw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Band Tabora
-http://boxtv.uniredes.com.br:80/16031974/16031974/89
-#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="Religiosos",TV Pai Eterno
-http://boxtv.uniredes.com.br:80/16031974/16031974/91
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Brasília
-http://boxtv.uniredes.com.br:80/16031974/16031974/95
-#EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWDfuTlNOQMB1yEQeADLL_k0BA9DcC19xeKMhRtA=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Agro Canal
-http://boxtv.uniredes.com.br:80/16031974/16031974/97
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQo4okeKPNFJW6d9SOtKRzlsGHzg_YIGCq5wlzHuLg=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Variedades",Fashion TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/98
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSJnc5MKamnLLR6WpiejIu7NjCtqaySjZpO4Ru8Mg=s512-c-k-c0x00ffffff-no-rj" group-title="Noticias",TV Câmara
-http://boxtv.uniredes.com.br:80/16031974/16031974/101
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Abertos",TV Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/102
-#EXTINF:-1 tvg-id="" tvg-name="TV Metropole" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSH-CxMuguG8fNNZiVEEHzplzap31S7N865Ht1SMA=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",TV Metropole
-http://boxtv.uniredes.com.br:80/16031974/16031974/105
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Rede TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/106
-#EXTINF:-1 tvg-id="" tvg-name="Polishop" tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Variedades",Polishop
-http://boxtv.uniredes.com.br:80/16031974/16031974/107
-#EXTINF:-1 tvg-id="" tvg-name="IMPACT Wrestling" tvg-logo="https://yt3.ggpht.com/8eafJoPq8P_j_Pckpxg8dwYaSlHK52HUxCKhGLNfgl7uirjI_PdZlIMLIoTjtf0hRRwK6Lgc=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Esportes",IMPACT Wrestling
-http://boxtv.uniredes.com.br:80/16031974/16031974/108
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="https://yt3.ggpht.com/_tCXzWTLdZh_Dus_sIYUs4PHJKYaq38jcZr--DiLA0eNJwwjUuRqYj17XzgvqsDOAS9rh883Rw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Variedades",Rede Vida
-http://boxtv.uniredes.com.br:80/16031974/16031974/109
-#EXTINF:-1 tvg-id="" tvg-name="Canção Nova" tvg-logo="https://yt3.ggpht.com/veqoa8Ae9-MJh2g79UgmH8AA1YgEAbK3CSmqpJj5nJp9D5MgUlDdjRgcK_mptr0Sq7j88VKI=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",Canção Nova
-http://boxtv.uniredes.com.br:80/16031974/16031974/111
-#EXTINF:-1 tvg-id="" tvg-name="DC Kids Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVTsivlJOA29s6QJDnm2iqV8ObMaONes7kTlSe=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Infantil",DC Kids Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/112
-#EXTINF:-1 tvg-id="" tvg-name="Camera Bauneario Camburiu" tvg-logo="https://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Bauneario Camburiu
-http://boxtv.uniredes.com.br:80/16031974/16031974/113
-#EXTINF:-1 tvg-id="" tvg-name="Camera Canal Itajai e Navegantes SC" tvg-logo="https://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Canal Itajai e Navegantes SC
-http://boxtv.uniredes.com.br:80/16031974/16031974/115
-#EXTINF:-1 tvg-id="" tvg-name="Kansas Zoo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBi93MNNy48WLEonDA-p8d72dXW7IIdKSdSFN3=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Kansas Zoo
-http://boxtv.uniredes.com.br:80/16031974/16031974/116
-#EXTINF:-1 tvg-id="" tvg-name="Camera Time Square USA" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Time Square USA
-http://boxtv.uniredes.com.br:80/16031974/16031974/117
-#EXTINF:-1 tvg-id="" tvg-name="Camera Brooklyn Bridge & Manhattan" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgqCkUYmkapqGYRmkGNYkRP4QjaVYC3l-u0QqZ=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Brooklyn Bridge & Manhattan
-http://boxtv.uniredes.com.br:80/16031974/16031974/118
-#EXTINF:-1 tvg-id="" tvg-name="partypoker TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQts0Ns_qlMlVILqyK9PTUx29YBU9TSfK6DuDTyiQ=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",partypoker TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/119
-#EXTINF:-1 tvg-id="" tvg-name="Poker Night in America" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQZzQhxkk58Cuo6e9SwKcSD1Bz2sMkKA8k4ZSxTGA=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Poker Night in America
-http://boxtv.uniredes.com.br:80/16031974/16031974/120
-#EXTINF:-1 tvg-id="" tvg-name="WPT Episodes Stream" tvg-logo="https://yt3.ggpht.com/tUoCcMWfGISu5Bb_j2dorGlRGrtw8PNHhJyShDSqWiaCueQiGxoP7jw2dRDcHJGpsDLoDJnq4A=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",WPT Episodes Stream
-http://boxtv.uniredes.com.br:80/16031974/16031974/121
-#EXTINF:-1 tvg-id="" tvg-name="SPACE (Official)" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9NaxmRRUyUQCioe03YoFxdfKnikfqE_vVQHmMtG34=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",SPACE (Official)
-http://boxtv.uniredes.com.br:80/16031974/16031974/122
-#EXTINF:-1 tvg-id="" tvg-name="NASA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",NASA
-http://boxtv.uniredes.com.br:80/16031974/16031974/123
-#EXTINF:-1 tvg-id="" tvg-name="Canal MIDI" tvg-logo="https://yt3.ggpht.com/o00ObsgCecZDxycG_PS0A5VtyUOGuyxDP4F8JPvYzxXJqQkV2XkfBZVlCChP89fToHgCF2fdFOw=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",Canal MIDI
-http://boxtv.uniredes.com.br:80/16031974/16031974/124
-#EXTINF:-1 tvg-id="" tvg-name="N&T Party - Party Dance" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTcYzRsYtVkdvJglB9hYAqkYWmc_trybMgTIOUQ=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",N&T Party - Party Dance
-http://boxtv.uniredes.com.br:80/16031974/16031974/127
-#EXTINF:-1 tvg-id="" tvg-name="Legend Music - Música para a Manhã" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSxtmkzBGv_N63xivlShEZxwpbtA_gPYrFEuvxM=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",Legend Music - Música para a Manhã
-http://boxtv.uniredes.com.br:80/16031974/16031974/128
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblícos" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRICOGYqauq5NZJWZLlQcWWIlfKmrrFLpRRfjeDdwTbUHJ_Ll2" group-title="Religiosos",Desenhos Biblícos
-http://boxtv.uniredes.com.br:80/16031974/16031974/129
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Bahia" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Bahia
-http://boxtv.uniredes.com.br:80/16031974/16031974/130
-#EXTINF:-1 tvg-id="" tvg-name="SBT Interior Pará" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Interior Pará
-http://boxtv.uniredes.com.br:80/16031974/16031974/131
-#EXTINF:-1 tvg-id="" tvg-name="Shoptime" tvg-logo="https://wercar.com.br/wp-content/uploads/shoptime-logo-1.png" group-title="Variedades",Shoptime
-http://boxtv.uniredes.com.br:80/16031974/16031974/133
-#EXTINF:-1 tvg-id="" tvg-name="SBT Nacional" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Nacional
-http://boxtv.uniredes.com.br:80/16031974/16031974/134
-#EXTINF:-1 tvg-id="" tvg-name="SBT Interior SP" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Interior SP
-http://boxtv.uniredes.com.br:80/16031974/16031974/135
-#EXTINF:-1 tvg-id="" tvg-name="Darkflix" tvg-logo="https://pbs.twimg.com/profile_images/1119668413616541697/1wO3l6Gu_400x400.png" group-title="Filmes",Darkflix
-http://boxtv.uniredes.com.br:80/16031974/16031974/146
-#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Infantil",Retrô Cartoon
-http://boxtv.uniredes.com.br:80/16031974/16031974/152
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",TV Gazeta
-http://boxtv.uniredes.com.br:80/16031974/16031974/161
-#EXTINF:-1 tvg-id="" tvg-name="TV Mundial" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTpOxDLl4gF7cW3Hezi6JMk2SkrG2yCvB_xkkchag=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Religiosos",TV Mundial
-http://boxtv.uniredes.com.br:80/16031974/16031974/162
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
-http://boxtv.uniredes.com.br:80/16031974/16031974/168
-#EXTINF:-1 tvg-id="" tvg-name="Outside - Esportes Radicais" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRoulUbO7wV9SUVvThXdGnVvHIxQyh6PGDghm4Exg=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Outside - Esportes Radicais
-http://boxtv.uniredes.com.br:80/16031974/16031974/171
-#EXTINF:-1 tvg-id="" tvg-name="WhosFans Kpop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR-CGbJcUYkJq20cZoiEa7_K83ib4V7w66Vkp6P6Q=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",WhosFans Kpop
-http://boxtv.uniredes.com.br:80/16031974/16031974/173
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Qello" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaf4Sl880-6DgE5fG9zEuQ_-_ktfMZTti_XOIA8A=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Musicas",Stingray Qello
-http://boxtv.uniredes.com.br:80/16031974/16031974/177
-#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQo0L9O4Sr102l1898CPQDAD6szi0D09La7k0eosQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Musicas",Clubbing TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/178
-#EXTINF:-1 tvg-id="" tvg-name="Karaoke Nacional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSXIDNSlCLNc1oRkpqNFQZiitYhIEmvi3oxFJW4EA=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Musicas",Karaoke Nacional
-http://boxtv.uniredes.com.br:80/16031974/16031974/183
-#EXTINF:-1 tvg-id="" tvg-name="Fail Army" tvg-logo="https://yt3.ggpht.com/PLsX6LIg5JbMJR9v7eTD7nQOPmZN16_X7h_uACw5qeWLAewiNfasZFsxQ48Dn8wZ_4McKUPZSA=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Variedades",Fail Army
-http://boxtv.uniredes.com.br:80/16031974/16031974/184
-#EXTINF:-1 tvg-id="" tvg-name="Combate Global" tvg-logo="https://yt3.ggpht.com/3OJ3dBiJmSngehvMZZS25O17yHIaiBOJZgcqGVDx7h-rZTvS7LLQXm6XlLppnlw-0JgoznyL=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Esportes",Combate Global
-http://boxtv.uniredes.com.br:80/16031974/16031974/187
-#EXTINF:-1 tvg-id="" tvg-name="Band Rio Interior" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Band Rio Interior
-http://boxtv.uniredes.com.br:80/16031974/16031974/189
-#EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Noticias",CBN News
-http://boxtv.uniredes.com.br:80/16031974/16031974/139
-#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau em Português" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRE1hI3UP_WrOnYPrpOOzszZkqwarvJBDpl46rgJg=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Pica-Pau em Português
-http://boxtv.uniredes.com.br:80/16031974/16031974/190
-#EXTINF:-1 tvg-id="" tvg-name="Anime Tv" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="Variedades",Anime Tv
-http://boxtv.uniredes.com.br:80/16031974/16031974/191
-#EXTINF:-1 tvg-id="" tvg-name="Web Tv Xtreme" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c680591502799a354409ce23b41932f8.jpg" group-title="Variedades",Web Tv Xtreme
-http://boxtv.uniredes.com.br:80/16031974/16031974/192
-#EXTINF:-1 tvg-id="" tvg-name="IAPTD - Plenitude TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTTiPnhihXwDcYJVzQITURhwFTTN0VCDOtPehs5=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",IAPTD - Plenitude TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/193
-#EXTINF:-1 tvg-id="" tvg-name="Demais TV" tvg-logo="https://yt3.ggpht.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Demais TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/195
-#EXTINF:-1 tvg-id="" tvg-name="Blast Channel TV" tvg-logo="https://i.imgur.com/ZHIKmOZ.png" group-title="Musicas",Blast Channel TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/196
-#EXTINF:-1 tvg-id="" tvg-name="Kpop TV Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.jpg" group-title="Musicas",Kpop TV Play
-http://boxtv.uniredes.com.br:80/16031974/16031974/198
-#EXTINF:-1 tvg-id="" tvg-name="TVAberta SP" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSrLhHM2q7dcSOxpuhJEP3FxJQSi-gs0W4oIZi=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",TVAberta SP
-http://boxtv.uniredes.com.br:80/16031974/16031974/199
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Canal Rural
-http://boxtv.uniredes.com.br:80/16031974/16031974/201
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJCMXLJC2zrp93TfE87l5TcWf6GtfI2iGX6yCedA=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Esportes",Red Bull TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/202
-#EXTINF:-1 tvg-id="" tvg-name="Deus Vivo TV" tvg-logo="https://yt3.ggpht.com/3E7GW5anUpTwaIQCvZdY8tkqPSyP-lxQHxiDgNBdeCg61XyeKmAB9udM8qvdWHsj6JtefG8Ect8=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",Deus Vivo TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/203
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV Gospel" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTijIGjpIZszSOWgG4lRQtCTMKDGLH3pMYaLptSDw=s512-c-k-c0x00ffffff-no-rj" group-title="Religiosos",Rede TV Gospel
-http://boxtv.uniredes.com.br:80/16031974/16031974/204
-#EXTINF:-1 tvg-id="" tvg-name="TV Black Sampa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRgJOzOmmpDiicWo8f3KrzQgNQyIaguMpYSNS8_=s512-c-k-c0x00ffffff-no-rj" group-title="Musicas",TV Black Sampa
-http://boxtv.uniredes.com.br:80/16031974/16031974/205
-#EXTINF:-1 tvg-id="" tvg-name="Ghost TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3988457040bce0bd05af600734dd1f0.jpg" group-title="Filmes",Ghost TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/209
-#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="Religiosos",Rede Gospel
-http://boxtv.uniredes.com.br:80/16031974/16031974/211
-#EXTINF:-1 tvg-id="" tvg-name="TV Rock" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/924a95780d68bc853f7d1508593df1e7.jpg" group-title="Musicas",TV Rock
-http://boxtv.uniredes.com.br:80/16031974/16031974/212
-#EXTINF:-1 tvg-id="" tvg-name="GLN TV" tvg-logo="https://yt3.ggpht.com/nSzfcQJ_BelpSkDl1tR-g0IL0KysbKfV9KibHqz9bUkK6T4SSZZRb_iQTwevJz7WcVgjx0ee=s512-c-k-c0x00ffffff-no-rj" group-title="Filmes",GLN TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/213
-#EXTINF:-1 tvg-id="" tvg-name="TV Loading" tvg-logo="https://yt3.ggpht.com/56B_ZwZYctBJUaRaa0ZbBqfRoH0yT3ZMsJE4g6w89_DVSwGyK7S9MTNn2y8pfpEnixXP8MmOpw=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Variedades",TV Loading
-http://boxtv.uniredes.com.br:80/16031974/16031974/214
-#EXTINF:-1 tvg-id="" tvg-name="Cameras Cidade de 3 Rios" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-_cifBRzOW-xn2PpyN7HfkOaojFB4p8Vw8lIIq=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Cameras Cidade de 3 Rios
-http://boxtv.uniredes.com.br:80/16031974/16031974/215
-#EXTINF:-1 tvg-id="" tvg-name="Canal TerraViva" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTAd-sBG5wzPZY87XqyHNCzzDzgIR4JQqou-MEs7Q=s512-c-k-c0x00ffffff-no-rj" group-title="Abertos",Canal TerraViva
-http://boxtv.uniredes.com.br:80/16031974/16031974/216
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://yt3.ggpht.com/vJhb9Hh8I7zLW7W6y3H5P5BMZnRRyDpIb1a7rPIhSGLtB0v6j7zi8YBbKZwjF5A54kXNeaA9=s512-c-k-c0x00ffffff-no-rj" group-title="Infantil",Cartoon Network
-http://boxtv.uniredes.com.br:80/16031974/16031974/219
-#EXTINF:-1 tvg-id="" tvg-name="Boxing Now" tvg-logo="https://yt3.ggpht.com/UbBVcZkH5G-NwMVAcDKqfZW3QyDbVqpHeYA_3aKs0LRm7kSCafEe-D8zTrTZmysmdxgR-kI-lA=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Boxing Now
-http://boxtv.uniredes.com.br:80/16031974/16031974/220
-#EXTINF:-1 tvg-id="" tvg-name="Motocross MXGP TV" tvg-logo="https://yt3.ggpht.com/9wk_1O3cXWnUmNUseduRI9QDLnSc9AcF92LrP92V8TKaVLTVWvYK5nw4TNkDJWq1-lRGGJ5LIg=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Motocross MXGP TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/221
-#EXTINF:-1 tvg-id="" tvg-name="Asian Street Food" tvg-logo="https://yt3.ggpht.com/JkNkMewkQL8BJvfRNSp2YXt19nRIezYmpXUBZtoQScHKKeXqzjC5hl7zyqJZAG-pv82_Qn7u=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Variedades",Asian Street Food
-http://boxtv.uniredes.com.br:80/16031974/16031974/224
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRDmqxltBt4dbJvgd9-ebX6onRhkTTtmjb9oPMNzQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",Canal do Boi
-http://boxtv.uniredes.com.br:80/16031974/16031974/235
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Minas
-http://boxtv.uniredes.com.br:80/16031974/16031974/246
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Pernambuco" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Pernambuco
-http://boxtv.uniredes.com.br:80/16031974/16031974/247
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Nordeste
-http://boxtv.uniredes.com.br:80/16031974/16031974/248
-#EXTINF:-1 tvg-id="" tvg-name="AniTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.jpg" group-title="Variedades",AniTV
-http://boxtv.uniredes.com.br:80/16031974/16031974/260
-#EXTINF:-1 tvg-id="" tvg-name="Câmera Aeroporto Internacional de Guarulhos" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu98qcoPl3qfWH4sI0o_7tk2G43iArY-gzWkOwbDNQ=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Aeroporto Internacional de Guarulhos
-http://boxtv.uniredes.com.br:80/16031974/16031974/261
-#EXTINF:-1 tvg-id="" tvg-name="Câmera Aeroporto de Congonhas" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu98qcoPl3qfWH4sI0o_7tk2G43iArY-gzWkOwbDNQ=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Aeroporto de Congonhas
-http://boxtv.uniredes.com.br:80/16031974/16031974/262
-#EXTINF:-1 tvg-id="" tvg-name="Câmera Aeroporto Campo de Marte" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu98qcoPl3qfWH4sI0o_7tk2G43iArY-gzWkOwbDNQ=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Câmera Aeroporto Campo de Marte
-http://boxtv.uniredes.com.br:80/16031974/16031974/263
-#EXTINF:-1 tvg-id="" tvg-name="Kozoom Billiard" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8-K8AOBonOVedtQtFH5yjomCkY_U7IH6LcWBwCVg=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",Kozoom Billiard
-http://boxtv.uniredes.com.br:80/16031974/16031974/272
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Maranhão" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Maranhão
-http://boxtv.uniredes.com.br:80/16031974/16031974/277
-#EXTINF:-1 tvg-id="" tvg-name="SBT Maranhão" tvg-logo="https://yt3.ggpht.com/oc4UOmYVhAp1i2Xhbfk_Dsls28iazUnxhnajY8wI5cUy5nggO6Und6S6eQarecHz7Uw9nb7tnQ=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Abertos",SBT Maranhão
-http://boxtv.uniredes.com.br:80/16031974/16031974/281
-#EXTINF:-1 tvg-id="" tvg-name="WWP TV" tvg-logo="https://yt3.ggpht.com/QGqtxpopMiWsp16GQMtnfuIXWplpOxcXVktg3KZtRF7BSYFRHozkzIWBcS_neBEfFm_Ym0ZDZA=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",WWP TV
-http://boxtv.uniredes.com.br:80/16031974/16031974/436
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Roraima" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Roraima
-http://boxtv.uniredes.com.br:80/16031974/16031974/435
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Tocantins" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Abertos",TV Globo Tocantins
-http://boxtv.uniredes.com.br:80/16031974/16031974/434
-#EXTINF:-1 tvg-name="Amityville Scarecrow (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGIxYmZmODgtMWYzNy00NjZlLTkwOTctNmE0YzI5NWVkYzNmXkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_FMjpg_UX1000_.jpg" group-title="Lancamentos",Amityville Scarecrow (2021)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/236.mp4
-#EXTINF:-1 tvg-name="A Caçadora: Ruína dos Mortos [L] (2019)" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2021/04/images_1_GVR3xyc.jpg" group-title="Lancamentos",A Caçadora: Ruína dos Mortos [L] (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/241.mp4
-#EXTINF:-1 tvg-name="Moonfall - Ameaça Lunar (2022)" tvg-logo="https://br.web.img2.acsta.net/pictures/22/01/04/09/58/1947183.jpg" group-title="Lancamentos",Moonfall - Ameaça Lunar (2022)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/249.mp4
-#EXTINF:-1 tvg-name="Chamas da Vingança (2022)" tvg-logo="https://img.techplanet.today/800x,jpeg/https://techplanet.today/storage/posts/2022/05/19/6283ed73310a0.jpg" group-title="Lancamentos",Chamas da Vingança (2022)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/250.mp4
-#EXTINF:-1 tvg-name="Os Fugitivos de Alcatraz (1979)" tvg-logo="https://image.tmdb.org/t/p/original/8ChgAP1Ck1BEXaATqyPS8nMExim.jpg" group-title="Lancamentos",Os Fugitivos de Alcatraz (1979)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/252.mp4
-#EXTINF:-1 tvg-name="Meteoro: A Fuga (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlMDBhZjktNGVkNC00NjAyLWFhZjMtYWJkZDU1MDM1YTE1XkEyXkFqcGdeQXVyMTI5MjQyNDc0._V1_.jpg" group-title="Lancamentos",Meteoro: A Fuga (2021)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/253.mp4
-#EXTINF:-1 tvg-name="Depois da Escuridão (2019)" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2020/01/download_1_VJrk2Bf.png" group-title="Lancamentos",Depois da Escuridão (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/255.mp4
-#EXTINF:-1 tvg-name="Pistoleiros: Vingança Sem Perdão (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/american_gunslingers_hd_16x9_eng_por_20/american_gunslingers_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Pistoleiros: Vingança Sem Perdão (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/256.mp4
-#EXTINF:-1 tvg-name="Alice: O Lado Negro do Espelho (2016)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8VKGDHqQAojJ3MrUeoo3uemdFq.jpg" group-title="Lancamentos",Alice: O Lado Negro do Espelho (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/266.mp4
-#EXTINF:-1 tvg-name="Na Teia da Conspiração (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/artofdeception_hd_16x9_eng_por_20/artofdeception_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Na Teia da Conspiração (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/268.mp4
-#EXTINF:-1 tvg-name="Eu Acredito: Com Deus Tudo é Possível (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/believe_hd_16x9_eng_por_20/believe_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Eu Acredito: Com Deus Tudo é Possível (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/269.mp4
-#EXTINF:-1 tvg-name="Call To Duty: Fora de Alcance (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/beyond_the_call_to_duty_hd_16x9_eng_por_20/beyond_the_call_to_duty_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Call To Duty: Fora de Alcance (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/270.mp4
-#EXTINF:-1 tvg-name="No Limite (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/boost_hd_16x9_eng_por_20/boost_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",No Limite (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/271.mp4
-#EXTINF:-1 tvg-name="Apartamento 212: A Infestação (2018)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnFWKwdkuiZ9OU2ZoyEmxQdFUyT.jpg" group-title="Lancamentos",Apartamento 212: A Infestação (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/267.mp4
-#EXTINF:-1 tvg-name="Um Homem Comum (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/an_ordinary_man_hd_eng20_por20/an_ordinary_man_hd_eng20_por20.jpg" group-title="Lancamentos",Um Homem Comum (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/258.mp4
-#EXTINF:-1 tvg-name="A Maldição da Sereia (2020)" tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.162957/0162957_200.jpg" group-title="Lancamentos",A Maldição da Sereia (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/264.mp4
-#EXTINF:-1 tvg-name="Um Anjo em Minha Vida (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/anjo_minha_vida_hd_16x9_eng_por_20/anjo_minha_vida_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Um Anjo em Minha Vida (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/257.mp4
-#EXTINF:-1 tvg-name="Um Acampamento do Barulho (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/acampamento_hd_eng20_por20/acampamento_hd_eng20_por20.jpg" group-title="Lancamentos",Um Acampamento do Barulho (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/273.mp4
-#EXTINF:-1 tvg-name="Assassino Em Série (2017)" tvg-logo="https://media.fstatic.com/zCn6qYZsDL8gANtVCg-6hHt2D18=/210x312/smart/media/movies/covers/2018/06/2000173964_WmtWThr.jpg" group-title="Lancamentos",Assassino Em Série (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/274.mp4
-#EXTINF:-1 tvg-name="O Despertar das Sombras (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/awaken_shadowman_hd_por20/awaken_shadowman_hd_por20.jpg" group-title="Lancamentos",O Despertar das Sombras (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/275.mp4
-#EXTINF:-1 tvg-name="Buckskin: A Floresta do Escalpe (2021)" tvg-logo="https://www.themoviedb.org/t/p/original/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Lancamentos",Buckskin: A Floresta do Escalpe (2021)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/276.mp4
-#EXTINF:-1 tvg-name="O Palhaço (2011)" tvg-logo="https://media.fstatic.com/LgYE0OODcSURiX1w28etjAYafo0=/290x478/smart/media/movies/covers/2011/07/3ba33778b4c8465ff7cd07e22808a4d3.jpg" group-title="Lancamentos",O Palhaço (2011)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/278.mp4
-#EXTINF:-1 tvg-name="O Anjo de Auschwitz (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/anjo_hd_por20/anjo_hd_por20.jpg" group-title="Lancamentos",O Anjo de Auschwitz (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/254.mp4
-#EXTINF:-1 tvg-name="Um Agente Fora de Série (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/bodyguard_hd_16x9_eng_por_20/bodyguard_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Um Agente Fora de Série (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/259.mp4
-#EXTINF:-1 tvg-name="Uma Tia Da Pesada (2019)" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/06/25/19/55/2384044.jpg" group-title="Lancamentos",Uma Tia Da Pesada (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/265.mp4
-#EXTINF:-1 tvg-name="Graça e Perdão (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/graca_perdao/graca_perdao.jpg" group-title="Lancamentos",Graça e Perdão (2010)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/279.mkv
-#EXTINF:-1 tvg-name="A Busca (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_busca_sd_16x9_leg/a_busca_sd_16x9_leg.jpg" group-title="Lancamentos",A Busca (2009)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/283.mp4
-#EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_cabeca_de_gumercindo_saraiva_hd_por20/a_cabeca_de_gumercindo_saraiva_hd_por20.jpg" group-title="Lancamentos",A Cabeça de Gumercindo Saraiva (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/284.mp4
-#EXTINF:-1 tvg-name="A Diretoria (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_diretoria_hd_16x9_ptbr/a_diretoria_hd_16x9_ptbr.jpg" group-title="Lancamentos",A Diretoria (2008)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/285.mp4
-#EXTINF:-1 tvg-name="A Diretoria Feminina (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_diretoria_peca_sd_4x3_ptbr/a_diretoria_peca_sd_4x3_ptbr.jpg" group-title="Lancamentos",A Diretoria Feminina (2012)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/286.mp4
-#EXTINF:-1 tvg-name="A Era do Peixinho (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_era_do_peixinho_hd_por20/a_era_do_peixinho_hd_por20.jpg" group-title="Lancamentos",A Era do Peixinho (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/287.mp4
-#EXTINF:-1 tvg-name="A Finada Mãe da Madame (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_finada_mae_da_madame_hd_por20/a_finada_mae_da_madame_hd_por20.png" group-title="Lancamentos",A Finada Mãe da Madame (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/288.mp4
-#EXTINF:-1 tvg-name="A Jornada: Uma viagem pelo tempo (2002)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_jornada_hd_16x9_ptbr/a_jornada_portuguese.jpg" group-title="Lancamentos",A Jornada: Uma viagem pelo tempo (2002)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/289.mp4
-#EXTINF:-1 tvg-name="A Mata Negra (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_mata_negra_hd_por20/a_mata_negra_hd_por20.png" group-title="Lancamentos",A Mata Negra (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/290.mp4
-#EXTINF:-1 tvg-name="A Quarta Parede (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/a_quarta_parede_hd_por20/a_quarta_parede_hd_por20.jpg" group-title="Lancamentos",A Quarta Parede (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/291.mp4
-#EXTINF:-1 tvg-name="Algo de Errado Não Está Certo (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/algo_de_errado_nao_esta_certo_hd_por20/algo_de_errado_nao_esta_certo_hd_por20.jpg" group-title="Lancamentos",Algo de Errado Não Está Certo (2021)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/292.mp4
-#EXTINF:-1 tvg-name="Apneia (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/apneia_hd_por20/apneia_hd_por20.jpg" group-title="Lancamentos",Apneia (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/293.mp4
-#EXTINF:-1 tvg-name="As Aventuras de Gui e Estopa (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/as_aventuras_de_gui_e_estopa_filme_hd_por20/as_aventuras_de_gui_e_estopa_filme_hd_por20.jpg" group-title="Lancamentos",As Aventuras de Gui e Estopa (2006)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/294.mp4
-#EXTINF:-1 tvg-name="Bento (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/bento_hd_por20/bento_hd_por20.jpg" group-title="Lancamentos",Bento (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/295.mp4
-#EXTINF:-1 tvg-name="Damas do Samba (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/damas_do_samba_longa_hd_por20/damas_do_samba_longa_hd_por20.jpg" group-title="Lancamentos",Damas do Samba (2013)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/296.mp4
-#EXTINF:-1 tvg-name="Terror na Síria (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/damascus_time_isps_eng_por_20/damascus_time_isps_eng_por_20..jpg" group-title="Lancamentos",Terror na Síria (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/297.mp4
-#EXTINF:-1 tvg-name="Do Lado de Fora (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/do_lado_de_fora_hd_por20/do_lado_de_fora_hd_por20.png" group-title="Lancamentos",Do Lado de Fora (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/298.mp4
-#EXTINF:-1 tvg-name="Espaço Além (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/espaco_alem_hd_por20/espaco_alem_hd_por20.jpg" group-title="Lancamentos",Espaço Além (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/299.mp4
-#EXTINF:-1 tvg-name="Eu Nunca (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/eu_nunca_hd_por20/eu_nunca_hd_por20.jpg" group-title="Lancamentos",Eu Nunca (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/300.mp4
-#EXTINF:-1 tvg-name="Jogos Virtuais: O Início (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/good_games_isps_eng_por_20/good_games_isps_eng_por_20.jpg" group-title="Lancamentos",Jogos Virtuais: O Início (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/301.mp4
-#EXTINF:-1 tvg-name="Hermie & Amigos: Buzby, e as Abelhas Resmungonas (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_buzby_e_as_abelhas_resmungonas_HD/hermie_buzby_e_as_abelhas_resmungonas_HD.jpg" group-title="Lancamentos",Hermie & Amigos: Buzby, e as Abelhas Resmungonas (2007)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/302.mp4
-#EXTINF:-1 tvg-name="Hermie & Amigos: Buzby, O Zangão Desobediente (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_buzby_o_zangao_desobediente_HD/hermie_buzby_o_zangao_desobediente_HD.jpg" group-title="Lancamentos",Hermie & Amigos: Buzby, O Zangão Desobediente (2005)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/303.mp4
-#EXTINF:-1 tvg-name="Hermie & Amigos: Dividir ou Não Dividir (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_dividir_ou_nao_dividir_HD/hermie_dividir_ou_nao_dividir_HD.jpg" group-title="Lancamentos",Hermie & Amigos: Dividir ou Não Dividir (2006)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/304.mp4
-#EXTINF:-1 tvg-name="Hermie & Amigos: Hermie em Alto-Mar (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_em_alto_mar_HD/hermie_em_alto_mar_HD.jpg" group-title="Lancamentos",Hermie & Amigos: Hermie em Alto-Mar (2008)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/305.mp4
-#EXTINF:-1 tvg-name="Hermie & Amigos: Hailey e Bailey, Brigar para Que? (2008)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_hailey_bailey_brigar_para_que_HD/hermie_hailey_bailey_brigar_para_que_HD.jpg" group-title="Lancamentos",Hermie & Amigos: Hailey e Bailey, Brigar para Que? (2008)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/306.mp4
-#EXTINF:-1 tvg-name="Hermie & Amigos: Skeeter e o Mistério do Tesouro Perdido! (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_skeeter_e_o_misterio_do_tesouro_HD/hermie_skeeter_e_o_misterio_do_tesouro_HD.jpg" group-title="Lancamentos",Hermie & Amigos: Skeeter e o Mistério do Tesouro Perdido! (2009)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/307.mp4
-#EXTINF:-1 tvg-name="Hermie & Amigos: Stanley, O Percevejo (2006)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hermie_stanley_o_percevejo_HD/hermie_stanley_o_percevejo_portuguese.jpg" group-title="Lancamentos",Hermie & Amigos: Stanley, O Percevejo (2006)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/308.mp4
-#EXTINF:-1 tvg-name="Hex Forças Malignas (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/hex_isps_eng_por_20/hex_isps_eng_por_20.JPG" group-title="Lancamentos",Hex Forças Malignas (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/309.mp4
-#EXTINF:-1 tvg-name="Histórias Estranhas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/historias_estranhas_por20/historias_estranhas_por20.jpg" group-title="Lancamentos",Histórias Estranhas (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/310.mp4
-#EXTINF:-1 tvg-name="Magal e os Formigas (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/magal_e_os_formigas_hd_16x9_por_20/magal_e_os_formigas_hd_16x9_por_20.jpg" group-title="Lancamentos",Magal e os Formigas (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/311.mp4
-#EXTINF:-1 tvg-name="Eldorado: Mengele Vivo ou Morto? (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mengele_vivo_morto_hd_por20/mengele_hd_por20..jpg" group-title="Lancamentos",Eldorado: Mengele Vivo ou Morto? (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/312.mp4
-#EXTINF:-1 tvg-name="Mulher Oceano (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mulher_oceano_hd_por20/mulher_oceano_hd_por20_forced.jpg" group-title="Lancamentos",Mulher Oceano (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/313.mp4
-#EXTINF:-1 tvg-name="Mussum, Um filme do Cacildis (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/mussum_hd_por20/mussum_hd_por20.jpg" group-title="Lancamentos",Mussum, Um filme do Cacildis (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/314.mp4
-#EXTINF:-1 tvg-name="Fantástico Patinho Feio (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_fantastico_patinho_feio_hd_por20/o_fantastico_patinho_feio_hd_por20.jpg" group-title="Lancamentos",Fantástico Patinho Feio (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/315.mp4
-#EXTINF:-1 tvg-name="O Filho do Homem (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_filho_do_homem_hd_por20/o_filho_do_homem_hd_por20.jpg" group-title="Lancamentos",O Filho do Homem (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/316.mp4
-#EXTINF:-1 tvg-name="O Nó do Diabo (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_no_do_diabo_hd_por20/o_no_do_diabo_hd_por20.png" group-title="Lancamentos",O Nó do Diabo (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/317.mp4
-#EXTINF:-1 tvg-name="O Próximo Samba (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/o_proximo_samba_hd_por20/o_proximo_samba_hd_por20.jpg" group-title="Lancamentos",O Próximo Samba (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/318.mp4
-#EXTINF:-1 tvg-name="Uma Paixão em Seoul (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/paixao_seoul_isps_eng_por_20/paixao_seoul_isps_eng_por_20.jpg" group-title="Lancamentos",Uma Paixão em Seoul (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/319.mp4
-#EXTINF:-1 tvg-name="Palestina: Uma Terra em Conflito (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/palestine_isps_eng_por_20/palestine_isps_eng_por_20.jpg" group-title="Lancamentos",Palestina: Uma Terra em Conflito (2021)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/320.mp4
-#EXTINF:-1 tvg-name="A Pedra da Serpente (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pedra_da_serpente_hd_por20/pedra_da_serpente.jpg" group-title="Lancamentos",A Pedra da Serpente (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/321.mp4
-#EXTINF:-1 tvg-name="Pitanga (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/pitanga/pitanga_poster_22032022_1200x1600_keyArt_pitanga.jpg" group-title="Lancamentos",Pitanga (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/322.mp4
-#EXTINF:-1 tvg-name="O Sequestro do Ônibus 300 (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/rescue_bus_isps_eng_por_20/rescue_bus_isps_eng_por_20.jpg" group-title="Lancamentos",O Sequestro do Ônibus 300 (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/323.mp4
-#EXTINF:-1 tvg-name="Servos da Guerra (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/servants_war_isps_eng_por_20/servants_war_isps_eng_por_20.jpg" group-title="Lancamentos",Servos da Guerra (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/324.mp4
-#EXTINF:-1 tvg-name="Sem Controle (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shadow_effect_hd_eng20_por20/shadow_effect_hd_eng20_por20.jpg" group-title="Lancamentos",Sem Controle (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/325.mp4
-#EXTINF:-1 tvg-name="O Primeiro Passo (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/shake_off_the_world_hd_por20/shake_off_the_world_hd_por20.jpg" group-title="Lancamentos",O Primeiro Passo (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/326.mp4
-#EXTINF:-1 tvg-name="Siembamba: A Canção do Mal (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/siembamba_hd_por20/siembamba_hd_por20.jpg" group-title="Lancamentos",Siembamba: A Canção do Mal (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/327.mp4
-#EXTINF:-1 tvg-name="O Verdadeiro Sentido do Amor (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/smalltownsanta_hd_por20/smalltownsanta_hd_por20.jpg" group-title="Lancamentos",O Verdadeiro Sentido do Amor (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/328.mp4
-#EXTINF:-1 tvg-name="Sobibor (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/sobibor_hd_rus20_por20/sobibor_hd_rus20_por20.jpg" group-title="Lancamentos",Sobibor (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/329.mp4
-#EXTINF:-1 tvg-name="O Caçador de Recompensas (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/soldiers_revenge_isps_eng_por_20/soldiers_revenge_isps_eng_por_20.jpg" group-title="Lancamentos",O Caçador de Recompensas (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/330.mp4
-#EXTINF:-1 tvg-name="Aranha Gigante no Sótão (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/spider_in_the_attic_hd_por20_eng20/spider_in_the_attic_hd_por20_eng20.jpg" group-title="Lancamentos",Aranha Gigante no Sótão (2021)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/331.mp4
-#EXTINF:-1 tvg-name="Super Top (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/super_top_hd_por20/super_top_hd_por20.jpg" group-title="Lancamentos",Super Top (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/332.mp4
-#EXTINF:-1 tvg-name="Supergirl (1984)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/supergirl/supergirl.jpg" group-title="Lancamentos",Supergirl (1984)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/333.mp4
-#EXTINF:-1 tvg-name="Os 23: Prisioneiros no Iraque (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the23_isps_eng_por_20/the23_isps_eng_por_20.jpg" group-title="Lancamentos",Os 23: Prisioneiros no Iraque (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/334.mp4
-#EXTINF:-1 tvg-name="O Mal Está Ao Seu Lado (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the100_candle_isps_eng_por_20/the100_candle_isps_eng_por_20.jpg" group-title="Lancamentos",O Mal Está Ao Seu Lado (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/335.mp4
-#EXTINF:-1 tvg-name="A Maldição de Humpty Dumpty (2021)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_curse_of_humpty_dumpty_hd_por20_eng20/the_curse_of_humpty_dumpty_hd_por20_eng20.jpg" group-title="Lancamentos",A Maldição de Humpty Dumpty (2021)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/336.mp4
-#EXTINF:-1 tvg-name="Um Passado Negro (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_evil_estate_hd_eng20/the_evil_estate_hd_eng20.jpg" group-title="Lancamentos",Um Passado Negro (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/337.mp4
-#EXTINF:-1 tvg-name="As Legiões Emergentes (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_legions_isps_eng_por_20/the_legions_isps_eng_por_20.jpg" group-title="Lancamentos",As Legiões Emergentes (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/338.mp4
-#EXTINF:-1 tvg-name="O Vigilante Mascarado (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_masked_saint_hd_por20/the_masked_saint_hd_por20.jpg" group-title="Lancamentos",O Vigilante Mascarado (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/339.mp4
-#EXTINF:-1 tvg-name="A Vida em Oranges (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/the_oranges_hd_por20/the_oranges_hd_por20.jpg" group-title="Lancamentos",A Vida em Oranges (2013)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/340.mp4
-#EXTINF:-1 tvg-name="Infiltrado (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/three_hd_chi20/three_hd_chi20.jpg" group-title="Lancamentos",Infiltrado (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/341.mp4
-#EXTINF:-1 tvg-name="Tráfico de Inocentes (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/trafico_de_inocentes_hd_20_portuguese/trafico_de_inocentes_hd_20_portuguese.jpg" group-title="Lancamentos",Tráfico de Inocentes (2012)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/342.mp4
-#EXTINF:-1 tvg-name="Tronco Partido (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/tronco_partido_hd_por20/tronco_partido_hd_por20.jpg" group-title="Lancamentos",Tronco Partido (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/343.mp4
-#EXTINF:-1 tvg-name="Tugger: O Jipinho Que Queria Voar (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/tugger_hd_por20/tugger_hd_por20.jpg" group-title="Lancamentos",Tugger: O Jipinho Que Queria Voar (2005)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/344.mp4
-#EXTINF:-1 tvg-name="Um Inverno Para Lembrar (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/um_inverno_para_lembrar_hd_spa20/um_inverno_para_lembrar_hd_spa20.jpg" group-title="Lancamentos",Um Inverno Para Lembrar (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/345.mp4
-#EXTINF:-1 tvg-name="Uma Juíza Sem Juízo (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/uma_juiza_sem_juizo_hd_por20/uma_juiza_sem_juizo_hd_por20.jpg" group-title="Lancamentos",Uma Juíza Sem Juízo (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/346.mp4
-#EXTINF:-1 tvg-name="Demência (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/unhinged_hd_eng20/unhinged_hd_eng20.jpg" group-title="Lancamentos",Demência (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/347.mp4
-#EXTINF:-1 tvg-name="Vamps: A Morte Não Existe para o Amor (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vamps_hd_eng20_por20/vamps_hd_eng20_por20.jpg" group-title="Lancamentos",Vamps: A Morte Não Existe para o Amor (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/348.mp4
-#EXTINF:-1 tvg-name="Exorcismo no Vaticano (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vatican_exorcism_hd_por20/vatican_exorcism_hd_por20.jpg" group-title="Lancamentos",Exorcismo no Vaticano (2013)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/349.mp4
-#EXTINF:-1 tvg-name="Um Verão Para Recordar (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/verao_recordar_isps_eng_por_20/verao_recordar_isps_eng_por_20.jpg" group-title="Lancamentos",Um Verão Para Recordar (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/350.mp4
-#EXTINF:-1 tvg-name="Vigilantes da Guerra (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vigilantes_hd_eng20_por20/vigilantes_hd_eng20_por20.jpg" group-title="Lancamentos",Vigilantes da Guerra (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/351.mp4
-#EXTINF:-1 tvg-name="Alma de Guerreiro (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vikingblood_hd_por20_eng20/vikingblood_hd_por20_eng20.jpg" group-title="Lancamentos",Alma de Guerreiro (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/352.mp4
-#EXTINF:-1 tvg-name="VIPs: Histórias Reais de um Mentiroso (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/vip_historias_reais_de_um_mentiroso/vip_historias_reais_de_um_mentiroso.png" group-title="Lancamentos",VIPs: Histórias Reais de um Mentiroso (2010)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/353.mp4
-#EXTINF:-1 tvg-name="Lobisomen (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/werewolf_rising_hd_eng20/werewolf_rising_hd_eng20.jpg" group-title="Lancamentos",Lobisomen (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/354.mp4
-#EXTINF:-1 tvg-name="O Mundo Sobre Nós (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/whitechocolate_hd_eng20/whitechocolate_hd_eng20.jpg" group-title="Lancamentos",O Mundo Sobre Nós (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/355.mp4
-#EXTINF:-1 tvg-name="A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/wunderland_hd_eng20_por20/wunderland_hd_eng20_por20.jpg" group-title="Lancamentos",A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/356.mp4
-#EXTINF:-1 tvg-name="A Zeropeia (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220524/zeropeia/zeropeia.jpg" group-title="Lancamentos",A Zeropeia (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/357.mp4
-#EXTINF:-1 tvg-name="A Emboscada: Um drama do velho oeste (1989)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_emboscada_repor/a_emboscada_portuguese.jpg" group-title="Lancamentos",A Emboscada: Um drama do velho oeste (1989)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/358.mp4
-#EXTINF:-1 tvg-name="A História de Deus: A História Narrada do Amor de Deus (1996)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_historia_de_deus_repor/a_historia_de_deus_portuguese.jpg" group-title="Lancamentos",A História de Deus: A História Narrada do Amor de Deus (1996)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/359.mp4
-#EXTINF:-1 tvg-name="A Lista (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_lista_repor/a_lista_portuguese.jpg" group-title="Lancamentos",A Lista (2007)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/360.mp4
-#EXTINF:-1 tvg-name="A Maldição da Forca (2003)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_maldicao_da_forca_repor/a_maldicao_da_forca_portuguese.jpg" group-title="Lancamentos",A Maldição da Forca (2003)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/361.mp4
-#EXTINF:-1 tvg-name="A Testemunha (1990)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/a_testemunha_repor/a_testemunha_portuguese.jpg" group-title="Lancamentos",A Testemunha (1990)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/362.mp4
-#EXTINF:-1 tvg-name="Além do Sol (2004)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/alem_do_sol_sd_16x9_ptbr/alem_do_sol_sd_16x9_ptbr.jpg" group-title="Lancamentos",Além do Sol (2004)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/363.mp4
-#EXTINF:-1 tvg-name="As Aventuras do Pequeno Peregrino (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/as_aventuras_do_pequeno_peregrino_repor/as_aventuras_do_pequeno_peregrino_repor.jpg" group-title="Lancamentos",As Aventuras do Pequeno Peregrino (2011)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/364.mp4
-#EXTINF:-1 tvg-name="Bênção e Maldição (2010)" tvg-logo="https://www.themoviedb.org/t/p/original/sHNSSIrtyZ7zAz5rkrzLOqfPJqG.jpg" group-title="Lancamentos",Bênção e Maldição (2010)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/365.mp4
-#EXTINF:-1 tvg-name="Cutback: Uma vida, Uma escolha (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/cutback/cutback.jpg" group-title="Lancamentos",Cutback: Uma vida, Uma escolha (2010)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/366.mp4
-#EXTINF:-1 tvg-name="O Final de Tudo (1995)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/final_de_tudo/final_de_tudo.jpg" group-title="Lancamentos",O Final de Tudo (1995)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/367.mp4
-#EXTINF:-1 tvg-name="Hardflip (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/hardflip/hardflip.jpg" group-title="Lancamentos",Hardflip (2012)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/368.mp4
-#EXTINF:-1 tvg-name="BKJ: O Livro que Mudou o Mundo (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/kjb/kjb.jpg" group-title="Lancamentos",BKJ: O Livro que Mudou o Mundo (2011)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/369.mp4
-#EXTINF:-1 tvg-name="Lenny & Sid: Ame Seu Próximo (2003)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/lenny_sid/lenny_sid.jpg" group-title="Lancamentos",Lenny & Sid: Ame Seu Próximo (2003)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/370.mp4
-#EXTINF:-1 tvg-name="Mandie e o Túnel Secreto (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/mandie/mandie.jpg" group-title="Lancamentos",Mandie e o Túnel Secreto (2009)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/371.mp4
-#EXTINF:-1 tvg-name="Milagre na Cabana (1997)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/milagre_na_cabana/milagre_na_cabana.jpg" group-title="Lancamentos",Milagre na Cabana (1997)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/372.mp4
-#EXTINF:-1 tvg-name="O Dedo de Deus (2007)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_dedo_de_deus/o_dedo_de_deus.jpg" group-title="Lancamentos",O Dedo de Deus (2007)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/373.mp4
-#EXTINF:-1 tvg-name="O Julgamento (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_julgamento/o_julgamento.jpg" group-title="Lancamentos",O Julgamento (2010)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/374.mp4
-#EXTINF:-1 tvg-name="O Segredo (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_segredo/o_segredo.jpg" group-title="Lancamentos",O Segredo (2011)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/375.mp4
-#EXTINF:-1 tvg-name="O Toque (2005)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/o_toque/o_toque.jpg" group-title="Lancamentos",O Toque (2005)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/376.mp4
-#EXTINF:-1 tvg-name="Perdoado (2002)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/perdoado/perdoado.jpg" group-title="Lancamentos",Perdoado (2002)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/377.mp4
-#EXTINF:-1 tvg-name="O Poder do Perdão (2010)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/poder_do_perdao/poder_do_perdao.jpg" group-title="Lancamentos",O Poder do Perdão (2010)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/378.mp4
-#EXTINF:-1 tvg-name="Só Para Garotos (1979)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/so_para_garotos/so_para_garotos.jpg" group-title="Lancamentos",Só Para Garotos (1979)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/379.mp4
-#EXTINF:-1 tvg-name="Um Olhar no Espelho (1982)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/um_olhar_espelho/um_olhar_no_espelho.jpg" group-title="Lancamentos",Um Olhar no Espelho (1982)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/380.mp4
-#EXTINF:-1 tvg-name="Venha o Que Vier (2009)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220605/venha_o_que_vier/venha_o_que_vier.jpg" group-title="Lancamentos",Venha o Que Vier (2009)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/381.mp4
-#EXTINF:-1 tvg-name="3 A.M.: A Hora da Morte - Parte 2 (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/3am_p2_hd_16x9_tha_por_20/3am_p2_hd_16x9_tha_por_20.jpg" group-title="Lancamentos",3 A.M.: A Hora da Morte - Parte 2 (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/382.mp4
-#EXTINF:-1 tvg-name="6 Minutos para Morrer (2013)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/6_minutos_para_morrer_hd_eng_20/6_minutos_para_morrer_hd_eng_20.jpg" group-title="Lancamentos",6 Minutos para Morrer (2013)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/383.mp4
-#EXTINF:-1 tvg-name="Flashes: Deixe a Realidade Para Trás (2020)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/alternate_realities_hd_16x9_eng_por_20/alternate_realities_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Flashes: Deixe a Realidade Para Trás (2020)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/384.mp4
-#EXTINF:-1 tvg-name="Amityville: A Estrada Assombrada (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/amityville_mt_misery_rd_hd_eng20/amityville_mt_misery_rd_hd_eng20.jpg" group-title="Lancamentos",Amityville: A Estrada Assombrada (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/385.mp4
-#EXTINF:-1 tvg-name="Um Amor do Passado (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/amor_do_passado_hd_16x9_por_20/amor_do_passado_hd_16x9_por_20.jpg" group-title="Lancamentos",Um Amor do Passado (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/386.mp4
-#EXTINF:-1 tvg-name="O Garoto Formiga 3 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/antboy3_hd_16x9_por_20/antboy3_hd_16x9_por_20.jpg" group-title="Lancamentos",O Garoto Formiga 3 (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/387.mp4
-#EXTINF:-1 tvg-name="A Arte do Amor (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/arte_amor_hd_eng_20/arte_amor_hd_eng_20.jpg" group-title="Lancamentos",A Arte do Amor (2012)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/388.mp4
-#EXTINF:-1 tvg-name="O Pequeno Bulldog (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/baby_bulldog_hd_16x9_por_20/baby_bulldog_hd_16x9_por_20.jpg" group-title="Lancamentos",O Pequeno Bulldog (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/389.mp4
-#EXTINF:-1 tvg-name="De Volta Ao Fundo do Mar (2012)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/back_to_the_sea_hd_16x9_eng_por_20/back_to_the_sea_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",De Volta Ao Fundo do Mar (2012)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/390.mp4
-#EXTINF:-1 tvg-name="Sobreviventes (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/backcountry_hd_16x9_eng_por_20/backcountry_hd_16x9_eng_por_20.JPG" group-title="Lancamentos",Sobreviventes (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/391.mp4
-#EXTINF:-1 tvg-name="A Maldição do Orfanato (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/bind_hd_eng_20/bind_hd_eng_20.jpg" group-title="Lancamentos",A Maldição do Orfanato (2011)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/392.mp4
-#EXTINF:-1 tvg-name="A Lenda Sinistra (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220608/bloodmyth_hd_eng_20/bloodmyth_hd_eng_20.jpg" group-title="Lancamentos",A Lenda Sinistra (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/393.mp4
-#EXTINF:-1 tvg-name="Rápidos e Perigosos (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/borning_hd_eng20_por20/borning_hd_eng20_por20.jpg" group-title="Lancamentos",Rápidos e Perigosos (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/398.mp4
-#EXTINF:-1 tvg-name="Rápidos e Perigosos 2 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/borning2_hd_eng_por_20/borning2_hd_eng_por_20.jpg" group-title="Lancamentos",Rápidos e Perigosos 2 (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/399.mp4
-#EXTINF:-1 tvg-name="Lembranças Perdidas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/broken_memories_hd_16x9_por_20/broken_memories_hd_16x9_por_20.jpg" group-title="Lancamentos",Lembranças Perdidas (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/400.mp4
-#EXTINF:-1 tvg-name="O Clã das Adagas (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/brotherhood_of_blades_2_hd_16x9_chi_por_20/brotherhood_of_blades_2_hd_16x9_chi_por_20.jpg" group-title="Lancamentos",O Clã das Adagas (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/401.mp4
-#EXTINF:-1 tvg-name="Na Máfia por Acaso (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/bully_hd_eng20/bully_hd_eng20.jpg" group-title="Lancamentos",Na Máfia por Acaso (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/402.mp4
-#EXTINF:-1 tvg-name="Mortos Vivos (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/burning_dead_hd_16x9_eng_por_20/burning_dead_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Mortos Vivos (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/403.mp4
-#EXTINF:-1 tvg-name="Caminho da Morte (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/bus_driver_hd_16x9_eng_por_20/bus_driver_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Caminho da Morte (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/404.mp4
-#EXTINF:-1 tvg-name="Caça à Testemunha (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/caca_testemunha_hd_eng_51/caca_testemunha_hd_eng_51.jpg" group-title="Lancamentos",Caça à Testemunha (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/405.mp4
-#EXTINF:-1 tvg-name="Vingança Mesmo Que Tardia (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/calamity_janes_revenge_hd_16x9_eng_por_20/calamity_janes_revenge_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Vingança Mesmo Que Tardia (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/406.mp4
-#EXTINF:-1 tvg-name="A Carga (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/carga_hd_16x9_eng_por_20/carga_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",A Carga (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/407.mp4
-#EXTINF:-1 tvg-name="O Coiote (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/cargo_hd_21x9_eng_por_20/cargo_hd_21x9_eng_por_20.jpg" group-title="Lancamentos",O Coiote (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/408.mp4
-#EXTINF:-1 tvg-name="Uma Prova De Fé (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/catching_faith_hd_16x9_por_20/catching_faith_hd_16x9_por_20.jpg" group-title="Lancamentos",Uma Prova De Fé (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/409.mp4
-#EXTINF:-1 tvg-name="Hora de Recomeçar (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/changing_saddles_hd_16x9_por_20/changing_saddles_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Hora de Recomeçar (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/411.mp4
-#EXTINF:-1 tvg-name="Massacre na Ucrânia (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/chervonyi_hd_16x9_ukr_por_20/chervonyi_hd_16x9_ukr_por_20.jpg" group-title="Lancamentos",Massacre na Ucrânia (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/412.mp4
-#EXTINF:-1 tvg-name="Um Amor Inesperado (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/christmas_cabin_hd_16x9_por_20/christmas_cabin_hd_16x9_por_20.jpg" group-title="Lancamentos",Um Amor Inesperado (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/413.mp4
-#EXTINF:-1 tvg-name="Voltando para Casa (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/christmasharmony_hd_por20/christmasharmony_hd_por20.jpg" group-title="Lancamentos",Voltando para Casa (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/414.mp4
-#EXTINF:-1 tvg-name="Crônicas da Tribo Fantasma (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/chronicles_of_the_ghostly_tribe_hd_16x9_chi_por_20/chronicles_of_the_ghostly_tribe_hd_16x9_chi_por_20.jpg" group-title="Lancamentos",Crônicas da Tribo Fantasma (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/415.mp4
-#EXTINF:-1 tvg-name="Pense Antes de Clicar (2018)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/clickbait_hd_eng_20/clickbait_hd_eng_20.jpg" group-title="Lancamentos",Pense Antes de Clicar (2018)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/416.mp4
-#EXTINF:-1 tvg-name="Guerra Fria 2 (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/coldwar2_hd_16x9_chi_por_20/coldwar2_hd_16x9_chi_por_20.jpg" group-title="Lancamentos",Guerra Fria 2 (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/417.mp4
-#EXTINF:-1 tvg-name="Confissões de Um Filho (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/confessions_of_prodigal_son_hd_16x9_eng_por_20/confessions_of_prodigal_son_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Confissões de Um Filho (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/418.mp4
-#EXTINF:-1 tvg-name="Conspiração: Ameaça Global (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/conspiracao_ameca_global_hd_eng_20/conspiracao_ameca_global_hd_eng_20.jpg" group-title="Lancamentos",Conspiração: Ameaça Global (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/419.mp4
-#EXTINF:-1 tvg-name="Coragem para Amar (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/courageouslove_hd_16x9_eng_por_20/courageouslove_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Coragem para Amar (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/420.mp4
-#EXTINF:-1 tvg-name="A Maldição Maia (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/curse_of_maia_hd_eng20_to_do/curse_of_maia_hd_eng20.jpg" group-title="Lancamentos",A Maldição Maia (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/421.mp4
-#EXTINF:-1 tvg-name="A Última Resistência (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/cyborgs_hd_16x9_rus_por_20/cyborgs_hd_16x9_rus_por_20.jpg" group-title="Lancamentos",A Última Resistência (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/422.mp4
-#EXTINF:-1 tvg-name="Davi Vs. Golias: A Batalha da Fé (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/davi_vs_golias_hd_16x9_eng_por_20/davi_vs_golias_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Davi Vs. Golias: A Batalha da Fé (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/423.mp4
-#EXTINF:-1 tvg-name="Davi e Golias (2015)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/davidandgoliath_hd_16x9_eng_por_spa_20/davidandgoliath_hd_16x9_eng_por_spa_20.jpg" group-title="Lancamentos",Davi e Golias (2015)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/424.mp4
-#EXTINF:-1 tvg-name="Assassinos de Guerra (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/day_assassins_hd_16x9_eng_por_20/day_assassins_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",Assassinos de Guerra (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/425.mp4
-#EXTINF:-1 tvg-name="O Dia da Múmia (2014)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/day_mummy_hd_16x9_eng_por_20/day_mummy_hd_16x9_eng_por_20.jpg" group-title="Lancamentos",O Dia da Múmia (2014)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/426.mp4
-#EXTINF:-1 tvg-name="Páginas da Morte (2019)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/dear_diary_hd_eng20_por20/dear_diary_hd_eng20_por20.jpg" group-title="Lancamentos",Páginas da Morte (2019)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/427.mp4
-#EXTINF:-1 tvg-name="Língua Demoníaca (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/demontongue_hd_eng20/demontongue_hd_eng20.jpg" group-title="Lancamentos",Língua Demoníaca (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/428.mp4
-#EXTINF:-1 tvg-name="Desaparecidos (2011)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/desaparecidos_hd_16x9_por_20/desaparecidos_hd_16x9_por_20.jpg" group-title="Lancamentos",Desaparecidos (2011)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/429.mp4
-#EXTINF:-1 tvg-name="Um Dia para Morrer (2017)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/dieinoneday_hd_eng_20/dieinoneday_hd_eng_20.jpg" group-title="Lancamentos",Um Dia para Morrer (2017)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/430.mp4
-#EXTINF:-1 tvg-name="Vingança Sangrenta (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/ditch_day_massacre_hd_eng_20/ditch_day_massacre_hd_eng_20.jpg" group-title="Lancamentos",Vingança Sangrenta (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/431.mp4
-#EXTINF:-1 tvg-name="Os Escolhidos (2016)" tvg-logo="http://vod.uniredes.com.br:6503/SVOD-Unifibra-1280x720/nirvana_svod_20220610/domain_hd_eng20/domain_hd_eng20.jpg" group-title="Lancamentos",Os Escolhidos (2016)
-http://boxtv.uniredes.com.br:80/movie/16031974/16031974/433.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - TV Difusora (MA)
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="Variedades", SBT TV Paraense (PA)
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="Variedades", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Variedades", SBT TV Aratu (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lib.bz/image/htforumlogo.png" group-title="Variedades", htforum.net
+https://lib.bz/video/htforum.mp4
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band Pará - RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band TV - Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Variedades", RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Variedades", RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="Variedades", RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",Kpop TV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="WebTV", Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/startv.png" group-title="WebTV", Start - WebTV
+https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="WebTV", XTreme
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="WebTV", Anime TV - WebTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="WebTV",Loading - Web TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/kids.png" group-title="WebTV", Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/playing.jpg" group-title="WebTV", Playing tv
+https://video1.earthcam.com//myearthcam//415695cddd911ffd26216e4fa42f953e.flv//playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="WebTV", Jetsons - Webtv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="WebTV", Rede Clone - WebTV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/logo-fora-tedio-tv-white.png" group-title="WebTV", Fora do Tédio
+http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta SP - Araçatuba
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Variedades", Rede Brasil (SP)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/TVCIDADE.png" group-title="Variedades", TV Cidade (RJ)
+https://stream.ichibantv.com:3827/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="Variedades", Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/varzeagrande.png" group-title="Variedades",TV Várzea Grande (MT)
+https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/maisnews.png" group-title="Pública",TV MAIS NEWS
+http://sevensp.homelinux.com/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública",TV Cultura - TV Guará (MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública", TV Cultura - TV Futuro (RJ)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/tbc.png" group-title="Pública",TV Brasil Central - Cultura (GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Pública", Cultura Pará
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="Pública",Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="Variedades", Rede Metrópole
+https://acesso.ecast.site:3456/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/meionorte.png" group-title="Variedades", Meio Norte
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/12/playtv.jpg" group-title="Variedades", Play TV
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/petlovers.jpg" group-title="Variedades", Pet Lovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="Pública",Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Infantil", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="Pública", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Infantil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="WebTV",AWTV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="WebTV",Vintage TV
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="Pública", Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="Variedades", TV União (CE)
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="Variedades", Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Pública", TV Brasil  - Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/canaleducacao.jpeg" group-title="Pública", Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Pública", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes", DarkFlix HD
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Música", KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1onemus.png" group-title="Música", 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/11/maisum.png" group-title="Música",MAIS UM
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="Música", Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="Música", Capital TV
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="Música", M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/musictop2.png" group-title="Música", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Pública",FDR - Futura (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="Variedades", Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kisstv.png" group-title="Música",Kiss TV - Indisponível
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Religioso",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="Religioso",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="Religioso",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="Religioso", Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="Religioso", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="Religioso", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="Religioso", IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="Religioso",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="Infantil", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Filmes",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="Música",Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="Filmes",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/central.png" group-title="Variedades",Central TV
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/maisfamilia.png" group-title="Variedades", Mais Família
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/amazon.png" group-title="Variedades",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/locomotion.png" group-title="Infantil", Locomotion - WebTV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png" group-title="Variedades",Rede Premium
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Pública", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Pública",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="Pública",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Variedades", Rede UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="WebTV", Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="WebTV", TV Pantanal MS - WebTV
+https://59d39900ebfb8.streamlock.net/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="Variedades", Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="WebTV", Rede TV Sul - WebTV
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Variedades", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" group-title="Variedades", RDC
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="WebTV", TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg" group-title="WebTV", TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Variedades", TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/samhost.tvcarioca.png" group-title="WebTV", TV Carioca
+https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="Pública", SescTV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" group-title="Pública", Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="Documentário", TVídeoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="Variedades", NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Variedades", TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Variedades",ISTV
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="WebTV", Canal 29 - WebTV
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="WebTV", Bons Tempos TV - WebTV
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="WebTV", TV Destak - WebTV
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="WebTV", TV Séries - WebTV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png" group-title="Pública",TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcandideslogo.png" group-title="Variedades",TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/japitv.png" group-title="Variedades",TV Japi
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="Pública",TV Maceió (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmae.png" group-title="Variedades",TV Mar
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png" group-title="WebTV", TV Sjid (BA)
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Pública",TV Faap
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="Variedades",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="Variedades", TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Variedades",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="WebTV", TV Gallo - WebTV
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="Variedades",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="Música", RTL (Itália)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/otto.png" group-title="Música", Otto Fm TV
+http://streaming.bitonlive.net:8080/hls/ottofm2/204_203/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="Música", RadioU
+https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="Música", Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="Música", Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="Música", Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="Música", 4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Colosal-TV.png" group-title="Música", Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades", Mundo TV
+https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="Variedades", TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="Variedades", CNT
+https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODQyNzk2NDQsImlhdCI6MTY4MzY3NDg0NCwiaWQiOiJjM2UyNjc2Yi0zMzE1LTQ0NjAtOWFkYS00M2ZjYmZkNmQ5MTEiLCJuYmYiOjE2ODM2NzMwNDQsInVpZCI6ImMzZTI2NzZiLTMzMTUtNDQ2MC05YWRhLTQzZmNiZmQ2ZDkxMSIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.PzbC1-hh_ZnSqlCPHvnsLlpQpmin8wsqulGKi7SqXBk&uid=c3e2676b-3315-4460-9ada-43fcbfd6d911
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvredeboasnovas.png" group-title="Religioso", Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_sic_2018.png" group-title="Variedades", SIC (apenas em Portugal)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="Jornalismo", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="Jornalismo", TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="Jornalismo", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arirang_logo.png" group-title="Variedades", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="Variedades", NHK Japan
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="Jornalismo", Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="Jornalismo", CBS News
+https://vidtech.cbsinteractive.com/h5/blanks/uvp_blank.mp4
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/dw.png" group-title="Variedades", Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="Esportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="Documentário", RT Documentary Channel
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="Documentário",CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVG.png" group-title="Variedades",TV Galícia
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Variedades",Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ewtn.png" group-title="Religioso",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tves.png" group-title="Variedades", RTVE
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVE-24h.png" group-title="Jornalismo", TVE 24
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="Jornalismo", RT en español 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="Variedades", CCTV
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="Jornalismo", CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="Filmes", CCTV Filmes
+https://cctvwbcdtxyhw.liveplay.myqcloud.com/live/cdrmjzcctv6_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retroplus.png" group-title="Música", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="Música", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sictv.png" group-title="Variedades",SIC TV  Local - Record Rondônia
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="Pública", TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="Pública", TV COM BRASIL
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/tvcommaceio.png" group-title="Pública", TV COM MACEIÓ
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="WebTV", TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/master.png" group-title="WebTV", TV Master
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg" group-title="Rádio",FM O DIA 100.5 - ESTÚDIO AO VIVO
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
+https://live-cm-ah-10-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTAtMzcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjgzODczNjI2LCJpYXQiOjE2ODM3ODcyMjYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvY2Juc3AyNGhhL3BsYXlsaXN0Lm0zdTgifQ.eU9MwICdJCzdD2rya6d4W1zf09d6QVM7GjnMJg38HrFms5QEpwuIA0SIQPEnehln0XZm8IhTRZjfPN15p4LB0A9bwS547g7zbwTRvdsdBFky6MEMHnOM8zQbUtXJ9P6VkUN8fJgEa_vu01L36feb_4WfSZ0HN0lLG_5O0TnGShJJ2yVhe4EkU8H4yL4RcHVK0eB9AQCyQp-enTuCL0R192qO2yfZozoasRWoVsfn5t54M14-tAszceGzcHoLebXtnv4aZpHUzJbCpbHvtT_XCShR-Pt7zfmGhPZJ_s1_9NInapqwFWAW2Cax_pim4cDyzxgJPwy35K3iQRSbHZBPsA/nu/f(bMin=2000,dvr=120,i=2)/cbnsp24ha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
+https://live-cm-ah-07-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDctMzgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjgzODczNjU4LCJpYXQiOjE2ODM3ODcyNTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvY2JucmoyNGhhL3BsYXlsaXN0Lm0zdTgifQ.Gqe7rATLXT0bIZ7OoWZP2Fi4p-C0dXKRGq5PoMV-T7UHC7oy1AwF2VK5kK4WBoseybyhy9L6hc_UPtIphHP6qmKJuZBIT0JiM4os7D4JI6mo9MTxUUcED5YeH_LMpZaD-Rfr9z0R-jKlmIMoXYI1rWIVynaZVuTCOC5mvpFK5E-Q6ARPioQSSiUKqSo9jeTa2F78gDOYA7ZvDjgDZZxCSgviDQjrymHM9XOiIzGKceifr1S8Yd77CAdXDru1rWtjMSsskmMwXqRza_bYNoHc8lQqqjdABj0Y8zZaEsrNKT2B3ETI4DpURxUhOxhUDY9Juys2-oAGrxVzFp9BpsTd8A/nu/f(bMin=2000,dvr=120,i=2)/cbnrj24ha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="BRASIL",RTV CANAL 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL",CATVE PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="BRASIL",MASTER TV PR
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL", TVE MS
+http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL", PLAN TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL", TV POCOS
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="BRASIL",UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
+#EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO 2
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M53Agyb.png" group-title="BRASIL",TV DIARIO DO BRASIL TV PREVE
+https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OJMDjjz.png" group-title="BRASIL",TV SDB
+https://5a0c3936c25c8.streamlock.net/8094/8094/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="BRASIL",TV UFSC
+https://tvaovivo.sites.ufsc.br/hls/1.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="BRASIL", TVE ES
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="BRASIL",TV CHROMA
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL", MULTI RIO
+http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="BRASIL",TV VICOSA
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
+https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="BRASIL",TV SETE LAGOAS
+https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="BRASIL", TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="BRASIL", TV COM DF
+https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="BRASIL", TV ABERTA SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1anXdqS.png" group-title="BRASIL", TVC RIO
+https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="BRASIL", TV COM SANTOS
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="BRASIL", CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/S9icaS4.png" group-title="BRASIL", BEM TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA
+https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="BRASIL", TV GRAO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",PEGADINHAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="BRASIL",EU TV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="BRASIL",NATURE TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="BRASIL",ANIME ZONE TV
+https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
+https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
+http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="BRASIL", IMPERIAL TV
+https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rqGWCEo.png" group-title="BRASIL", TV MANCHETE 2
+https://stmv1.srvif.com/penasd/penasd/chunklist_w1994239603.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="BRASIL", REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="BRASIL", ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="BRASIL",TV SUL BAHIA
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rZz5Iuh.png" group-title="BRASIL",TV WEB GUAREI TWG
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3igIxnk.png" group-title="BRASIL",TVI VILA IMPERIAL
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", TELE WEB TV
+https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3uSpxL.png" group-title="BRASIL",TV SINGULAR
+https://stmv.video.expressolider.com.br/tvsingularsat/tvsingularsat/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA
+https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", TV LIBERDADE
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KtwsBjH.png" group-title="BRASIL", SUL TV
+https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e0VQVhW.png" group-title="BRASIL", WEB TV XTREME
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
+https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IjW1BaX.png" group-title="BRASIL",NOVA GAZETA TV
+http://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H0KkYjd.png" group-title="BRASIL",TV ALIANCA CATARINENSE
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cX18hjg.png" group-title="BRASIL",BSTV ONLINE
+https://livefocamundo.com:8081/bs-tvonline/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Rlo1Tp2.png" group-title="BRASIL", SEVEN TV
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="BRASIL", SAT TV WEB
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="BRASIL",TV NORDESTE
+https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
+https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="BRASIL", TV CIDADE OESTE
+http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
+#EXTINF:-1 tvg-logo="https://imgur.com/MVukprV.png" group-title="BRASIL", VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="BRASIL", SOU TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="BRASIL",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Mfr7xIc.png" group-title="BRASIL", TV OPCAO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yNXAB3p.png" group-title="BRASIL", CANAL TV RIO
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="BRASIL",TV METROPOLITANA RIO
+https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/flHrmTZ.png" group-title="BRASIL",TV CAPITAL 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV WESTERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aZRobKc.png" group-title="BRASIL",Channel 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="BRASIL",WEB TV PROGRESSO
+https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", REDE QUE DEMAIS
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2073176681.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", TV QUE DEMAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VJrDYC9.png" group-title="BRASIL", Q TAL CHANNEL
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="BRASIL", BLITS TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VC6BYcz.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
+https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0AF7uLU.png" group-title="BRASIL",TV DESTAK
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cC5Ueww.png" group-title="BRASIL",ASCAME
+https://livefocamundo.com:8081/ascametv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zADpkDP.png" group-title="BRASIL", TV CONTROLES
+https://livefocamundo.com:8081/tvcontroles/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zV6zESO.png" group-title="BRASIL",TV RIO GRANDE
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4HsVInI.png" group-title="BRASIL", JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7J9mnYh.png" group-title="BRASIL", TV CARAVELAS
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/CzlX7P6.png" group-title="BRASIL", GHOST TV 
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5S4QHxX.png" group-title="BRASIL",ELYTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fh2bo3k.png" group-title="BRASIL",WEB TV OLHO DAGUA
+https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q35K1Nj.png" group-title="BRASIL", WEB TV AGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="BRASIL", WTJ TV MINAS
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mrRMHGr.png" group-title="BRASIL",TV GAZETA BA
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DKunHAm.png" group-title="BRASIL",TV PLANALTO NORTE
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/XE1KtQw.png" group-title="BRASIL", ELEMENTAL CHANNEL
+https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hfTZFFf.png" group-title="BRASIL", BMTV
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Hr5dCWq.png" group-title="BRASIL",TV GRAMADO
+https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="BRASIL",DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="BRASIL",NOVA TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ak6GNHl.png" group-title="BRASIL",TV JUNDIAI HOJE
+https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uTN9TKB.png" group-title="BRASIL", CABO FRIO TV
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Tm8YbhO.png" group-title="BRASIL", REDE WEB TV 
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NIUqJYt.png" group-title="BRASIL", LAVRAS CE TV WEB
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6RDJ6M5.png" group-title="BRASIL",TV VERDES CAMPOS SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/GwgDwQm.png" group-title="BRASIL", TV DIVERSIDADE
+https://stmv5.samcast.com.br/tvdiversidade/tvdiversidade/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NcReOZr.png" group-title="BRASIL", OESC TV
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rrNIqAb.png" group-title="BRASIL", RDTV DIGITAL
+https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ekF19OV.png" group-title="BRASIL",TV OPINIAO PLAY
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="BRASIL",TV EMPIRE NO AR
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="BRASIL",TV PASSO FUNDO
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/n7IQGPS.png" group-title="BRASIL", TV IBATE
+https://5eaa6849d0971.streamlock.net/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="BRASIL",TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hFkrSZD.png" group-title="BRASIL", UTV
+https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/IzXzzR2.png" group-title="BRASIL", TV VIDA FORMOSA
+https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/IzQGxIx.png" group-title="BRASIL", TV SANTA
+https://596639ebdd89b.streamlock.net/tvbela0982/tvbela0982/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="BRASIL", REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="BRASIL", TV CAPITAL TERESINA
+https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/HF4nWl1.png" group-title="BRASIL", TV ACE
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
+https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/c0AHbpm.png" group-title="BRASIL", REDE NOVA TV
+https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="BRASIL", TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
+https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tGo2hG1.png" group-title="BRASIL",DUNAS TV
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/e5qCHbP.png" group-title="BRASIL", WEB TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/0JZLt9q.png" group-title="BRASIL", WTV BRASIL
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/SUTvLz6.png" group-title="BRASIL", VIRTUAL TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="BRASIL",SANDEGI TV 
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="BRASIL", TV OSORIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="BRASIL",PLENA TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fhzKvG6.png" group-title="BRASIL",TV NAZARENA
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RRgMcKR.png" group-title="BRASIL", TV INFORBAHIA
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q5Rcet8.png" group-title="BRASIL", RDC TV
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV
+https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV LIVE
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/chunklist_w2118431116.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JTvEGuV.png" group-title="BRASIL",CANAL ITU TV
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m6RDJBZ.png" group-title="BRASIL",TV DIGITAL BIRIGUI
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3Kee3Pu.png" group-title="BRASIL",TV DIARIO DO SERTAO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5hzyZO1.png" group-title="BRASIL",TV ITAPETININGA
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="BRASIL",TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2yPvv6T.png" group-title="BRASIL",CINE LIVRE 2
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="BRASIL", CTV
+https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/O4ltrYZ.png" group-title="BRASIL",TV NOVA ONDA
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/493q2l2.png" group-title="BRASIL", TV SERRA VERDE
+https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vagiDGp.png" group-title="BRASIL",REDE TV SUL
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BmfzcP7.png" group-title="BRASIL", NOVA TV VALE
+https://5b7f3c45ab7c2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1aXoLRz.png" group-title="BRASIL", NOVA BARREIRA WEB TV
+https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1857902543.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hAVgsPo.png" group-title="BRASIL", REDE TV MAIS
+https://novo.bitstreaming.info:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kiaOwxN.png" group-title="BRASIL", WEB TV ENTORNO SUL
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/djCX2hU.png" group-title="BRASIL",TV UM
+https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TuRxt9m.png" group-title="BRASIL",TV IBIAPABANA
+https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="BRASIL", TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HCteWPr.png" group-title="BRASIL", REDE ENCAUCA
+https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/80c9RRD.png" group-title="BRASIL", GIRO TV NEWS
+https://596639ebdd89b.streamlock.net/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5aKFdDR.png" group-title="BRASIL", ALLEGRO WEB TV
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5qUBxaq.png" group-title="BRASIL", ARARUNA TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="BRASIL", TV BOQUEIRAO
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
+https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
+#EXTINF:-1 tvg-logo="https://imgur.com/RUvA3s2.png" group-title="BRASIL", PORTAL NEWS WEB TV
+https://stmv6.srvstm.com/portalnews/portalnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MR6UAi0.png" group-title="BRASIL",CONECTA MAIS WEB TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Htci37P.png" group-title="BRASIL",TV DESTAQUE NACIONAL
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="BRASIL", TV MON
+https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
+uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
+#EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="BRASIL", TV SOL COMUNIDADE
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="BRASIL", CONECT TV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="BRASIL",NOVA ERA TV
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uPFPfR8.png" group-title="BRASIL",TV ONIX
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBbmnyl.png" group-title="BRASIL", TV J SID
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zGtzHQJ.png" group-title="BRASIL",TV MAR
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WNvxlJ8.png" group-title="BRASIL",ALPHA CHANNEL
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KH4Ai8a.png" group-title="BRASIL",TV PANTANAL
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6VADL45.png" group-title="BRASIL",TV A PLATEIA
+https://stmv1.samcast.com.br/kamal9663/kamal9663/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TfmphYR.png" group-title="BRASIL",TV 3 VIA
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="BRASIL",BRAZITV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7RJHIOl.png" group-title="BRASIL", AISH TV BRASIL
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="BRASIL", CBTV NOW
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="BRASIL", TV CNB
+https://livefocamundo.com:8081/tvcnb/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="BRASIL", TV CANDIDES
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WgtkCkp.png" group-title="BRASIL", TV CARAGUA
+https://cdn.jmvstream.com/w/AVJ-9779/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="BRASIL", TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="BRASIL",REDE METROPOLITANA
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Cn1NYpM.png" group-title="BRASIL",TV ESTILO
+https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ULrn9NY.png" group-title="BRASIL",ALL TV
+https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LD5OFa1.png" group-title="BRASIL", SBC TV
+https://srv6.zcast.com.br/sbctv/sbctv/chunklist_w325526859.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/loqxKB9.png" group-title="BRASIL", TV PONTA DO SEIXAS
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HId7S1U.png" group-title="BRASIL", TV ND DO BRASIL
+https://video01.kshost.com.br:4443/tv3685/tv3685/chunklist_w817106734.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Epxr8DX.png" group-title="BRASIL", TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0eYWk5q.png" group-title="BRASIL", TVRP
+https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/USSYh91.png" group-title="BRASIL",TV IRACEMA
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IxMstuQ.png" group-title="BRASIL",REDE TVC
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="BRASIL",NOSSA TV MOSSORO
+https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="BRASIL",SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="BRASIL",TV STA CECILIA
+https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UfbTKUx.png" group-title="BRASIL",CANAL 7
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qupN7JL.png" group-title="BRASIL",TV CIDADE TIRADENTES
+https://novo.bitstreaming.info:443/8284/8284/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z3bRtcM.png" group-title="BRASIL",TV INTERLAGOS
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/W14dMoI.png" group-title="BRASIL", TV GERAIS
+https://video01.kshost.com.br:4443/humberto3322/humberto3322/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="BRASIL", TV OMINDARE
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/93NjzeF.png" group-title="BRASIL", REDE ESTACAO 26
+https://novo.bitstreaming.info/redeestacao26tv/redeestacao26tv/chunklist_w1483333240.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ESNvgRj.png" group-title="BRASIL", TERE TV
+https://5b7f3c45ab7c2.streamlock.net:443/8158/8158/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/NIlCeIF.png" group-title="BRASIL",LIDER TV
+http://189.51.193.70:1935/LiderTV/fluxo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fXXR6Qb.png" group-title="BRASIL", TV CENTRO SUL
+https://novo.bitstreaming.info:443/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYIkG2G.png" group-title="BRASIL",AMERICAN HORROR CHANNEL
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eKgvDUU.png" group-title="BRASIL",247 RETRO TV
+http://dag.total-stream.net/dag1.m3u8?sid=ret&cid=dai&auth=&auth=c3RpbWU9MTU4MDU2NTczOSZ2YWxpZGl0eT01JmFnbj0wJmNvbmY9cDAwJnNpZ249MTdmZGI3MTEzY2U5NDFlMGQ5NDc0Njc2MmU3YjE3M2Y=
+#EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jgZu5x9.png" group-title="BRASIL", REDE LIVE TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692603/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="BRASIL",FALA LITORAL WEB TV
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eTVcg0c.png" group-title="BRASIL", LIVRE TV
+https://serv2.videovox.pw/lindon5124/lindon5124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HJ8Se5w.png" group-title="BRASIL", TV A CARA DA BAHIA
+https://stmv1.painelvideo.top/jatoba/jatoba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/B1p5ktJ.png" group-title="BRASIL", TV CAMARA SALVADOR
+https://596639ebdd89b.streamlock.net/8114/8114/chunklist_w287122639.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="BRASIL",TV ALBA
+https://digilab.cds.ebtcvd.net/live-tvalba/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zBbubNN.png" group-title="BRASIL", PRIMER TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EhVnAew.png" group-title="BRASIL", TV PORTAL MIDIA
+https://video01.kshost.com.br/portalmidia/portalmidia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5EkGqxt.png" group-title="BRASIL", TV JAGUAR
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vq7j49p.png" group-title="BRASIL", TV INTERATIVA
+http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="BRASIL",TVN BRASIL
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4QBiwuU.png" group-title="BRASIL",TV BNO
+https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i168ZAZ.png" group-title="BRASIL",TV GUARUJA
+https://59e4b6c1beddc.streamlock.net:443/8138/8138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BTfw3EI.png" group-title="BRASIL",TV GUARAPARI
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/mEpZ6oE.png" group-title="BRASIL",TV MARES GUARAPARI
+https://59f1cbe63db89.streamlock.net:1443/tvmaresguarapari/_definst_/tvmaresguarapari/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="BRASIL", TV SUL DE MINAS
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="BRASIL",STUDIO TV
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jtmmPhA.png" group-title="BRASIL",TV URBANA
+https://livefocamundo.com:8081/tvurbana/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Iw8f5Ft.png" group-title="BRASIL", BAH TV 
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MgNfGtZ.png" group-title="BRASIL",TV CAMARA SP
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GbUvahh.png" group-title="BRASIL", TV ZOOM
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="BRASIL",TV MAIS MARICA
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ozhg54z.png" group-title="BRASIL",CANAL RICOS
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="BRASIL", TV PADRE CICERO
+https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="BRASIL", SAO RAIMUNDO TV
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="BRASIL",TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HS395JQ.png" group-title="BRASIL",TV HORA 1
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/goNct4q.png" group-title="BRASIL",TVC 16
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="BRASIL",TV CIDADE CANAL 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WdODuFn.png" group-title="BRASIL",TV LIDER DO VALE
+https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nmI1IXD.png" group-title="BRASIL", MAM NEWS WEB TV
+https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0Ku91k5.png" group-title="BRASIL", WEB TV CIDADE JANAUBA
+https://StmV1.srvstm.com/cidade123/cidade123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/S4mLXE0.png" group-title="BRASIL", WEB TV JP
+https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0bHcWLr.png" group-title="BRASIL", RESENDE WEB TV
+https://5d82644094cc0.streamlock.net:443/resendetv/resendetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3tLkoPl.png" group-title="BRASIL", CAMOCIM WEB TV
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gCfPmxs.png" group-title="BRASIL", VIVA WEB TV
+https://video02.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kCy7RWq.png" group-title="BRASIL",WEB TV MACEIO
+https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QaXVtCL.png" group-title="BRASIL", WEB TV PARANA
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bcm91Jn.png" group-title="BRASIL", WEB TV URUARA
+https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="BRASIL",WEB TV FRONTEIRA
+https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aJ4SLA5.png" group-title="BRASIL",WEB TV ESCRIBA DO AMAPA
+https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4GUweIZ.png" group-title="BRASIL",WEB TV CAICO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yzDFalj.png" group-title="BRASIL",SRTV PB
+https://livefocamundo.com:8081/srtvpb/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rTcTzQb.png" group-title="BRASIL", TV LITORAL
+http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/V4QqFbW.png" group-title="BRASIL",REDE LITORAL NEWS
+https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaFTDMi.png" group-title="BRASIL",TV CARAVELAS
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pur9IVR.png" group-title="BRASIL",TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uo24jMo.png" group-title="BRASIL", VALE TV PLAY
+https://cdn-valetv.ciclano.io:1443/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b5zZzvL.png" group-title="BRASIL",TENDA TV
+https://stmv6.srvstm.com/9696/9696/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="BRASIL",TV MASTER PB
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2v59tFU.png" group-title="BRASIL",TV COGNOPOLIS
+https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GgH6F4t.png" group-title="BRASIL", CANAL 25 JUNDIAI
+http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BvcF0F.png" group-title="BRASIL",TV ASSU
+https://5eaa6849d0971.streamlock.net/8058/8058/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PWcD36m.png" group-title="BRASIL",TV PRECABURA
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="BRASIL", TV CN AGITOS
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
+https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/g38pM7D.png" group-title="BRASIL",CANAL 10 FOZ
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q2lfDgx.png" group-title="Música",ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="Música", TV ALVORADA SERTANEJA
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qy8Ab43.png" group-title="Música",TV MAXIMA
+https://tvdatta.com:3279/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="Música", 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="Música",POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="Música",TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="Música",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="Música",ON FM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="Música",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="Música",POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="Música", LFM TV
+https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="Música",PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="Música",TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
